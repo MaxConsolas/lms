@@ -1,0 +1,3158 @@
+key,en
+main,Array
+blog,Array
+categories.categories,Array
+categories.edit_page_title,Array
+certificates,Array
+comments,Array
+dashboard,Array
+discounts,Array
+filters,Array
+financial.financial_summary,Array
+financial.financial_documents,Array
+financial.financial_summary_no_result,Array
+financial.financial_summary_no_result_hint,Array
+financial.summary_page_title,Array
+financial.sales_report,Array
+financial.sales_history,Array
+financial.sales_statistics,Array
+financial.total_income,Array
+financial.income,Array
+financial.show_only_webinars,Array
+financial.total_amount,Array
+financial.total_sales,Array
+financial.sales_no_result,Array
+financial.sales_no_result_hint,Array
+financial.account_summary,Array
+financial.payout,Array
+financial.payouts_history,Array
+financial.request_payout,Array
+financial.payout_request,Array
+financial.account,Array
+financial.charge,Array
+financial.account_charge,Array
+financial.ready_to_payout,Array
+financial.payout_no_result,Array
+financial.payout_no_result_hint,Array
+financial.payout_confirmation,Array
+financial.payout_confirmation_hint,Array
+financial.account_type,Array
+financial.select_account_type,Array
+financial.account_id,Array
+financial.iban,Array
+financial.identity_scan,Array
+financial.address,Array
+financial.charge_account,Array
+financial.select_the_payment_gateway,Array
+financial.select_a_payment_gateway,Array
+financial.razorpay_payment_gateway,Array
+financial.pay_via,Array
+financial.paypal,Array
+financial.stripe,Array
+financial.paytm,Array
+financial.finalize_payment,Array
+financial.select_the_account,Array
+financial.referral_code,Array
+financial.bank_accounts_information,Array
+financial.offline_transactions_history,Array
+financial.bank,Array
+financial.card_id,Array
+financial.approved,Array
+financial.approve,Array
+financial.offline,Array
+financial.offline_no_result,Array
+financial.offline_no_result_hint,Array
+financial.offline_payment_request_success_store,Array
+financial.charge_account_page_title,Array
+financial.subscribe,Array
+financial.subscribes,Array
+financial.days_of_subscription,Array
+financial.my_active_plan,Array
+financial.active_plan,Array
+financial.remained_downloads,Array
+financial.days_remained,Array
+financial.select_a_subscribe_plan,Array
+financial.subcribe_no_result,Array
+financial.subcribe_no_result_hint,Array
+financial.webinar,Array
+financial.Meeting,Array
+financial.refund,Array
+financial.manual_document,Array
+financial.automatic_document,Array
+financial.purchase,Array
+financial.payouts_requests,Array
+groups,Array
+paymentChannels,Array
+quiz.quiz,Array
+quiz.quizzes,Array
+quiz.my_quizzes,Array
+quiz.new_quiz,Array
+quiz.edit_quiz,Array
+quiz.quiz_title,Array
+quiz.number_of_attemps,Array
+quiz.attempts,Array
+quiz.pass_mark,Array
+quiz.grade,Array
+quiz.your_grade,Array
+quiz.quiz_grade,Array
+quiz.my_grade,Array
+quiz.certificate_included,Array
+quiz.active_quiz,Array
+quiz.results_statistics,Array
+quiz.success_rate,Array
+quiz.open_results,Array
+quiz.open_quizzes,Array
+quiz.all_quizzes,Array
+quiz.unlimited,Array
+quiz.multiple_choice,Array
+quiz.add_multiple_choice,Array
+quiz.descriptive,Array
+quiz.add_descriptive,Array
+quiz.empty_means_infinity,Array
+quiz.multiple_choice_question,Array
+quiz.question_title,Array
+quiz.question_grade,Array
+quiz.add_an_answer,Array
+quiz.answer_title,Array
+quiz.answer_image,Array
+quiz.correct_answer,Array
+quiz.current_answer_required,Array
+quiz.correct,Array
+quiz.new_descriptive_question,Array
+quiz.student,Array
+quiz.students,Array
+quiz.instructors,Array
+quiz.student_results,Array
+quiz.average,Array
+quiz.average_grade,Array
+quiz.minimum_grade,Array
+quiz.passed,Array
+quiz.failed,Array
+quiz.failed_quizzes,Array
+quiz.waiting,Array
+quiz.filter_quizzes,Array
+quiz.filter_results,Array
+quiz.quiz_or_webinar,Array
+quiz.show_only_active_quizzes,Array
+quiz.show_only_open_results,Array
+quiz.create_a_quiz,Array
+quiz.quiz_no_result,Array
+quiz.quiz_no_result_hint,Array
+quiz.quiz_result_no_result,Array
+quiz.quiz_result_no_result_hint,Array
+quiz.need_to_review,Array
+quiz.level_identification_quiz,Array
+quiz.previous_question,Array
+quiz.next_question,Array
+quiz.remaining_time,Array
+quiz.download_certificate,Array
+quiz.you_can_download_certificate,Array
+quiz.status_failed_title,Array
+quiz.status_failed_hint,Array
+quiz.status_waiting_title,Array
+quiz.status_waiting_hint,Array
+quiz.status_passed_title,Array
+quiz.status_passed_hint,Array
+quiz.cant_start_quiz,Array
+quiz.student_grade,Array
+quiz.quiz_start,Array
+quiz.quiz_status,Array
+quiz.my_results,Array
+quiz.results,Array
+quiz.result,Array
+quiz.achievements,Array
+quiz.my_achievements_lists,Array
+quiz.certificates_lists,Array
+quiz.certificates_statistics,Array
+quiz.active_certificates,Array
+quiz.student_achievements,Array
+quiz.failed_students,Array
+quiz.filter_certificates,Array
+quiz.generated_certificates,Array
+quiz.certificates_no_result,Array
+quiz.certificates_no_result_hint,Array
+quiz.my_certificates,Array
+quiz.my_certificates_statistics,Array
+quiz.my_certificates_no_result,Array
+quiz.my_certificates_no_result_hint,Array
+quiz.quiz_chance_remained,Array
+quiz.student_answer,Array
+quiz.new_quiz_page_title,Array
+quiz.quizzes_list_page_title,Array
+quiz.quizzes_section,Array
+quizResults,Array
+roles,Array
+setting,Array
+tags,Array
+users,Array
+webinars.webinars_list_page_title,Array
+webinars.webinars_purchases_page_title,Array
+webinars.new_page_title,Array
+webinars.new_page_title_step,Array
+webinars.webinar,Array
+webinars.webinars,Array
+webinars.class,Array
+webinars.classes,Array
+webinars.webinar_page,Array
+webinars.title,Array
+webinars.start_date,Array
+webinars.end_date,Array
+webinars.capacity,Array
+webinars.price,Array
+webinars.description,Array
+webinars.status,Array
+webinars.teacher_name,Array
+webinars.organization_name,Array
+webinars.category_name,Array
+webinars.select_category,Array
+webinars.select_teacher,Array
+webinars.select_student,Array
+webinars.select_status,Array
+webinars.webinars_count,Array
+webinars.image_cover,Array
+webinars.choose_image_cover,Array
+webinars.choose_video_demo,Array
+webinars.video_demo,Array
+webinars.webinar_demo,Array
+webinars.support,Array
+webinars.supported_class,Array
+webinars.partner_instructor,Array
+webinars.subscribe,Array
+webinars.include_subscribe,Array
+webinars.create_field_title_placeholder,Array
+webinars.new_page_lead,Array
+webinars.page_lists_lead,Array
+webinars.admin_webinars,Array
+webinars.admin_webinars_list,Array
+webinars.admin_webinars_create,Array
+webinars.admin_webinars_edit,Array
+webinars.admin_webinars_delete,Array
+webinars.this_webinar_includes,Array
+webinars.downloadable_content,Array
+webinars.official_certificate,Array
+webinars.online_quizzes_count,Array
+webinars.instructor_support,Array
+webinars.report_this_webinar,Array
+webinars.webinar_specifications,Array
+webinars.specifications,Array
+webinars.search_course,Array
+webinars.previous,Array
+webinars.next,Array
+webinars.save_and_next,Array
+webinars.course,Array
+webinars.video_course,Array
+webinars.text_lesson,Array
+webinars.text_lessons,Array
+webinars.progress_step,Array
+webinars.your_reviews_successfully_submitted_and_waiting_for_admin,Array
+webinars.you_not_access_review,Array
+webinars.your_review_deleted,Array
+webinars.in_progress,Array
+webinars.success_store,Array
+webinars.sale_plans,Array
+webinars.sale_plans_hint_1,Array
+webinars.sale_plans_hint_2,Array
+webinars.sale_plans_hint_3,Array
+webinars.files_hint_1,Array
+webinars.files_hint_2,Array
+webinars.required_hint,Array
+webinars.file_upload_placeholder,Array
+webinars.file_online_placeholder,Array
+webinars.file_volume,Array
+webinars.online_file_volume,Array
+webinars.file_type,Array
+webinars.select_file_type,Array
+webinars.upload,Array
+webinars.youtube_vimeo,Array
+webinars.add_new_faqs,Array
+webinars.export_list_error_not_student,Array
+webinars.select_session_api,Array
+webinars.session_local,Array
+webinars.session_local_api,Array
+webinars.session_big_blue_button,Array
+webinars.session_zoom,Array
+webinars.session_date_must_larger_webinar_start_date,Array
+webinars.next_session_duration,Array
+webinars.next_session_start_date,Array
+webinars.all_courses,Array
+webinars.all_students,Array
+webinars.all_instructors,Array
+webinars.next_session_info,Array
+webinars.session_title,Array
+webinars.join_information,Array
+webinars.system,Array
+webinars.undefined_active_session,Array
+webinars.empty_means_webinar_capacity,Array
+webinars.show_only_subscribe,Array
+webinars.show_only_certificate_included,Array
+webinars.show_only_with_quiz,Array
+webinars.show_only_featured,Array
+webinars.private,Array
+webinars.create_private_course_hint,Array
+webinars.partner_Teacher_hint,Array
+webinars.invoice_page_title,Array
+webinars.your_zoom_settings_are_not_complete,Array
+webinars.zoom_jwt_token_invalid,Array
+webinars.youtube,Array
+webinars.vimeo,Array
+webinars.your_reviews_successfully_submitted,Array
+api.public.retrieved,"data retrieved successfully"
+api.public.stored," the item stored successfully"
+api.public.deleted," the item removed successfully"
+api.public.updated," the item updated successfully"
+api.public.status,":item :status successfully"
+api.auth.not_verified,"the user is not verified"
+api.auth.invalid_register_method,"the register method is invalid"
+api.auth.already_registered,"the user has already registered"
+api.auth.login,"the user login successfully"
+api.auth.registered,"the user registered successfully"
+auth.admin_login_title,"Admin login"
+auth.failed,"Incorrect username or password or user not exsits."
+auth.throttle,"Too many login attempts. Please try again in :seconds seconds."
+auth.admin_panel,"Admin Panel"
+auth.welcome,"Welcome to"
+auth.admin_tagline,"Please login to control and manage everything!"
+auth.email,Email
+auth.mobile,Phone
+auth.country,Country
+auth.full_name,"Full Name"
+auth.email_or_mobile,"Email or Phone"
+auth.email_or_mobile_or_name,"Email, Phone or Name"
+auth.your_email,"Your email address"
+auth.password,Password
+auth.retype_password,"Retype Password"
+auth.password_repeat,"Retype Password"
+auth.login,Login
+auth.signup,Signup
+auth.register,Register
+auth.remember_me,"Remember me"
+auth.forget_password,"Password Recovery"
+auth.forget_your_password,"Forgot your password?"
+auth.dont_have_account,"Don't have an account?"
+auth.hint_password,"Please type your password."
+auth.hint_email,"Please type your email."
+auth.role_admin,Admin
+auth.role_normal,User
+auth.login_h1,"Log in to your account"
+auth.or,or
+auth.google_login,"Login with Google account"
+auth.facebook_login,"Login with Facebook account"
+auth.i_agree_with,"I agree with"
+auth.terms_and_rules,"terms & rules"
+auth.already_have_an_account,"Already have an account?"
+auth.reset_password,"Reset Password"
+auth.send_email_for_reset_password,"Password recovery link sent to your email address. Please check your email."
+auth.reset_password_success,"Your password successfully changed!"
+auth.reset_password_token_invalid,"Invalid request! Try again."
+auth.name,Name
+auth.language,Language
+auth.join_newsletter,"Join email newsletter"
+auth.public_messages,"Enable profile messages"
+auth.images,Images
+auth.profile_image,"Profile Image"
+auth.select_image,"Select an Image"
+auth.profile_cover,"Profile Cover"
+auth.education_no_result,"No degree is defined!"
+auth.education_no_result_hint,"Your degrees will be displayed on your profile page."
+auth.experience_no_result,"No experience is defined!"
+auth.experience_no_result_hint,"Define your experiences to help users know more about you."
+auth.ban_msg,"Your account banned until :date"
+auth.incorrect_login,"Incorrect username or password."
+auth.fail_login_by_google,"Google login failed!"
+auth.fail_login_by_facebook,"Facebook login failed!"
+auth.email_confirmation,"Email verification"
+auth.email_confirmation_template_body,"To verify your email address :email., enter the following code on :site website."
+auth.in,for
+auth.verification,Verify
+auth.account_verification,"Account verification"
+auth.account_verification_hint,"Please enter the code sent to your :username here."
+auth.code,"Verification Code"
+auth.resend_code,"Resend code"
+auth.verify_your_email_address,"Verify Your Email Address"
+auth.click_here,"Click here"
+auth.verification_link_has_been_sent_to_your_email,"New verification link has been sent to your email address."
+auth.login_failed_your_account_is_not_verified,"Login failed! Your email/phone not verified."
+auth.logout,Logout
+auth.phone,Phone
+cart.total,Total
+cart.go_to_cart,"Go to cart"
+cart.checkout,Checkout
+cart.shopping_cart,"Shopping Cart"
+cart.for_items,"for :count items"
+cart.cart_items,"Cart Items"
+cart.your_cart_empty,"Your cart is empty"
+cart.fail_purchase,"Purchase failed!"
+cart.course_not_found,"Course not found!"
+cart.course_not_capacity,"Out of class capacity!"
+cart.course_not_free,"The course is not free."
+cart.course_has_been_purchase,"This course has been purchased."
+cart.cant_purchase_your_course,"You can not purchase your course."
+cart.this_course_has_required_prerequisite,"You should pass required prerequisites."
+cart.item,Item
+cart.continue_shopping,"Continue Shopping"
+cart.coupon_code,Coupon
+cart.coupon_code_hint,"If you have a coupon, insert the code in the following input and click ""Validate"" button."
+cart.coupon_valid,"The coupon is valid."
+cart.coupon_invalid,"Invalid coupon, make sure it is correct."
+cart.in_user_group,"You are in "":group_name"" group and you will get :percent% extra discount."
+cart.enter_your_code_here,"Enter coupon code here"
+cart.validate,Validate
+cart.cart_totals,"Cart Total"
+cart.sub_total,Subtotal
+cart.tax,Tax
+cart.success_pay_title,Congratulations!
+cart.success_pay_msg,"Your payment successfully done..."
+cart.success_pay_msg_for_free_course,"You enrolled on the course successfully."
+cart.failed_pay_title,"Payment Failed!"
+cart.failed_pay_msg,"Payment failed. Payment gateway not responding."
+cart.cart_add_success_title,"Added to cart!"
+cart.cart_add_success_msg,"You can continue shopping or go to cart to finalize your order."
+cart.gateway_error,"Payment failed! Please try again."
+cart.you_not_purchased_this_course,"You have not purchased this course."
+cart.success_pay_msg_for_free_meeting,"You reserved the meeting successfully."
+cart.success_pay_msg_subscribe,"You subscribed this course successfully."
+file.mp4,MP4
+footer.join,Join
+footer.join_us_today,"Join us today"
+footer.subscribe_content,"#We will send the best deals and offers to your email."
+footer.enter_email_here,"Enter your email here"
+forms.maximum_64_characters,"Maximum 64 characters"
+forms.maximum_255_characters,"Maximum 255 characters"
+forms.maximum_128_characters,"Maximum 128 characters"
+forms.50_160_characters_preferred,"155 - 160 characters preferred"
+forms.maximum_50_characters,"Maximum 50 characters"
+forms.course_thumbnail_size,"360x250px preferred"
+forms.course_cover_size,"1920x530px preferred"
+forms.max,Max
+forms.capacity_placeholder,"How many students will you host?"
+forms.subscribe_hint,"Students will be able to subscribe to your content in addition of direct purchasing."
+forms.webinar_description_placeholder,"Minimum 300 words. HTML and images supported."
+forms.empty_means_unlimited,"Leave it blank for unlimited."
+home.home_title,Home
+home.slider_heading,"Enjoy online learning"
+home.slider_hint,"Online education is one of the best choices to grow 
+ learn from the best teachers around the world"
+home.slider_search_placeholder,"Search courses, instructors and organizations..."
+home.find,Search
+home.view_all,"View All"
+home.teachers,Instructors
+home.skillful_teachers,"Skillful Instructors"
+home.skillful_teachers_hint,"Start learning from experienced instructors."
+home.live_classes,"Live Classes"
+home.live_classes_hint,"Improve your skills using live knowledge flow."
+home.happy_students,"Happy Students"
+home.happy_students_hint,"Enrolled in our courses and improved their skills."
+home.offline_courses,"Video Courses"
+home.offline_courses_hint,"Learn without any geographical & time limitations."
+home.hours,Hours
+home.featured_classes,"Featured Courses"
+home.featured_webinars,"Featured Courses"
+home.featured_classes_hint,"#Browse featured courses and become skillful"
+home.latest_classes,"Newest Courses"
+home.latest_webinars,"Newest Courses"
+home.latest_webinars_hint,"#Recently published courses"
+home.featured,Featured
+home.downloadable,Downloadable
+home.download,Download
+home.downloads,Downloads
+home.trending_categories,"Trending Categories"
+home.trending_categories_hint,"#Browse trending & popular learning topics"
+home.best_sellers,"Bestselling Courses"
+home.best_sellers_hint,"#Learn from bestselling courses"
+home.best_rates,"Best Rated Courses"
+home.best_rates_hint,"#Enjoy high quality and best rated content"
+home.discount_classes,"Discounted Courses"
+home.discount_classes_hint,"#Get courses at the latest price"
+home.free_classes,"Free Courses"
+home.free_classes_hint,"#Never miss free learning opportunities"
+home.testimonials,Testimonials
+home.testimonials_hint,"#What our customers say about us"
+home.subscribe_now,"Subscribe Now!"
+home.subscribe_now_hint,"#Choose a subscription plan and save money!"
+home.instructors,Instructors
+home.all_instructors,"All Instructors"
+home.instructors_hint,"#Learn from the experienced & skillful instructors"
+home.reserve_a_live_class,"Reserve a live meeting"
+home.organization,Organization
+home.organizations,Organizations
+home.all_organizations,"All Organizations"
+home.organizations_hint,"#Greatest education organizations are here to help you"
+home.blog,Blog
+home.all_blog,"Blog Posts"
+home.blog_hint,"#Explore latest news and articles"
+home.platform_address,Address
+home.order_summary,"Order Summary"
+home.blog_search_placeholder,"Search for blog posts..."
+meeting.meeting_setting_page_title,"Meeting Setting"
+meeting.meeting_list_page_title,"Meetings List"
+meeting.meeting_requests_page_title,"Meeting requests list"
+meeting.dont_exist_time,"Time not exists"
+meeting.locked_time,"Access denied, This time is not available!"
+meeting.reserved_time,"Access denied, This time already reserved!"
+meeting.select_time_to_reserve,"Please select time to reserve."
+meeting.reserved,Reserved
+meeting.reservation_appointment,"Meeting Reservation"
+meeting.reserve_appointment,"Reserve a Meeting"
+meeting.appointment,Meeting
+meeting.error_saving_time,"Error while saving time"
+meeting.note_to_time_must_greater_from_time,"The end time must be greater than the start time."
+meeting.error_times,"Time error"
+meeting.success_save_time,"Time successfully saved"
+meeting.success_delete_time,"Time successfully deleted"
+meeting.error_delete_time,"Error in deleting time"
+meeting.save_meeting_setting_success,"Operation successfully done."
+meeting.paid_for_x_hour,"Paid for :hours hours of consultation"
+meeting.finish_reserve_modal_hint,"This action couldnt be undone."
+meeting.finish_reserve_modal_confirm,"Yes, finish it!"
+meeting.finish_reserve_modal_cancel,Cancel
+meeting.finish_reserve_modal_title,"Do you want to finish meeting?"
+meeting.finish_reserve_modal_success,Successful
+meeting.finish_reserve_modal_success_hint,"Meeting finished successfully"
+meeting.finish_reserve_modal_fail,Error
+meeting.finish_reserve_modal_fail_hint,"Meeting not finished. Please contact support."
+meeting.meeting_disabled,"Meeting disabled."
+navbar.search_anything,Search...
+navbar.home,Home
+navbar.about_us,"About us"
+navbar.contact,Contact
+navbar.blog,Blog
+navbar.terms,Terms
+navbar.items,Items
+navbar.menu,Menu
+navbar.title,Title
+navbar.start_a_live_class,"Start a new course"
+notification.all_notifications,"All notifications"
+notification.sender,Sender
+notification.notifications_page_lists_lead,"List of notifications. You can edit or delete..."
+notification.send_notification,"Send notification"
+notification.edit_notification,"Edit notification"
+notification.empty_notifications,"Empty notifications"
+notification.email_ignore_msg,"If you didnt submit this request, please ignore it."
+notification.send_noticeboard,"Send a new notice"
+notification.edit_noticeboard,"Edit a notice"
+notification.post_notice,"Send notice"
+notification.receiver,Receiver
+pages_title,1
+pagination.previous,"&laquo; Previous"
+pagination.next,"Next &raquo;"
+panel.new_users,"New users"
+panel.user,User
+panel.users,Users
+panel.followers,Followers
+panel.following,Following
+panel.follow,Follow
+panel.unfollow,Unfollow
+panel.webinars,Courses
+panel.webinar,Course
+panel.webinar_sales,"Live class sales"
+panel.content_sales,Sales
+panel.my_webinars,"My courses"
+panel.you_not_have_any_webinar,"No Course!"
+panel.no_result_hint,"Create your first course and let others learn from you."
+panel.choose_webinar,"Select a course"
+panel.certificates,Certificates
+panel.quizzes,Quizzes
+panel.financial,Financial
+panel.requests,Requests
+panel.support,Support
+panel.send_new_support,"New support message"
+panel.notifications,Notifications
+panel.settings,Settings
+panel.log_out,"Log out"
+panel.create_a_class,"Create a course"
+panel.create_a_webinar,"Create a course"
+panel.invited_classes,"Invited courses"
+panel.invited_teacher,"Invited instrcutor"
+panel.invited_by,"Invited by"
+panel.classes,Courses
+panel.my_classes,"My courses"
+panel.my_activity,"My activity"
+panel.download_sales,"Download Sales"
+panel.course_sales,Sales
+panel.only_not_conducted_webinars,"Only not conducted live classes"
+panel.conducted,Conducted
+panel.not_conducted,"Not conducted"
+panel.upcoming,Upcoming
+panel.start_learning,"Start learning"
+panel.my_purchases_no_result,"No Purchased Course!"
+panel.my_purchases_no_result_hint,"Start learning from the best instructors and enjoy..."
+panel.comment,Comment
+panel.comments,Comments
+panel.reply,Reply
+panel.replied,Replied
+panel.not_replied,"Not replied"
+panel.report,Report
+panel.report_success,"Your report has been sent."
+panel.report_fail,"Report failed. Make sure you are logged in."
+panel.new_comments,"New comments"
+panel.my_class_comments,"My course comments"
+panel.my_comments,"My comments"
+panel.comments_statistics,"Comments statistics"
+panel.filter_comments,"Filter comments"
+panel.webinar_comments_list,"Course comments list"
+panel.comments_no_result,"You don't have any comments!"
+panel.comments_no_result_hint,"When a student comment on your courses 
+ it will be appeared in this list."
+panel.my_comments_no_result,"You didn't create any comments!"
+panel.my_comments_no_result_hint,"Your comments will help to improve community quality..."
+panel.my_purchases,"My purchases"
+panel.no_result_purchases,"No Purchased Course!"
+panel.no_result_purchases_hint,"Start learning from the best instructors and enjoy..."
+panel.purchase_date,"Purchase Date"
+panel.purchased,Purchased
+panel.favorites,Favorites
+panel.favorite,Favorite
+panel.favorite_live_classes,"Favorite courses"
+panel.no_result_favorites,"No Favorite Course!"
+panel.no_result_favorites_hint,"You can add a course to your favorites and enroll on later."
+panel.meeting,Meeting
+panel.meetings,Meetings
+panel.open_meetings,"Open meetings"
+panel.pending_appointments,"Pending meetings"
+panel.total_meetings,"Total meetings"
+panel.amount,Amount
+panel.sales,Sales
+panel.sales_amount,"Sales amount"
+panel.active_hours,"Active hours"
+panel.meeting_statistics,"Meeting statistics"
+panel.filter_meetings,"Filter meetings"
+panel.meeting_list,"Meetings list"
+panel.meeting_requests_list,"Meeting requests list"
+panel.show_only_open_meetings,"Show only open meetings"
+panel.create_link,"Create link"
+panel.contact_student,"Contact student"
+panel.contact_instructor,"Contact instructor"
+panel.finish_meeting,"Finish meeting"
+panel.meeting_no_result,"No meeting request!"
+panel.meeting_no_result_hint,"Reserved meetings will be displayed in this list."
+panel.student_contact_information,"Student contact information"
+panel.instructor_contact_information,"Instructor contact information"
+panel.my_timesheet,"My timesheet"
+panel.saturday,Saturday
+panel.sunday,Sunday
+panel.monday,Monday
+panel.tuesday,Tuesday
+panel.wednesday,Wednesday
+panel.thursday,Thursday
+panel.friday,Friday
+panel.join_live_meeting,"Join live meeting"
+panel.add_live_meeting_link,"Add live meeting link"
+panel.add_live_meeting_link_success,"Live meeting link added successfully"
+panel.add_live_meeting_link_fail,"Error in adding live meeting link"
+panel.add_live_meeting_link_hint,"You can use Zoom, Bigbluebutton, etc links"
+panel.url,URL
+panel.my_hourly_charge,"Hourly charge"
+panel.number_only,"Only numbers..."
+panel.temporary_disable_meetings,"Temporary disable meetings"
+panel.success_temporary_disable_meetings,"Meetings disabled successfully."
+panel.error_temporary_disable_meetings,"Failed to disable meetings."
+panel.discount,"Discount rate"
+panel.dashboard,Dashboard
+panel.i_not_available,"Activate offline status"
+panel.hi,Hi
+panel.have_event,"You have :count new events"
+panel.view_all_events,"View all events"
+panel.account_balance,"Account Balance"
+panel.with_drawable,Withdrawable
+panel.live_requests,"Meeting Requests"
+panel.monthly_sales,"Monthly Sales"
+panel.learning_statistics,"Learning Statistics"
+panel.support_messages,"Support Messages"
+panel.next_badge,"Next Badge"
+panel.noticeboard,Noticeboard
+panel.noticeboards,Notices
+panel.not_verified_alert,"Your identity and financial information not verified so it might cause delay in payout process. Please define them from"
+panel.this_link,settings
+panel.conversations,Conversations
+panel.create_support_message,"New support message"
+panel.course_support,"Course support"
+panel.course_type,"Course type"
+panel.platform_support,"Platform support"
+panel.department,Department
+panel.attach,Attachment
+panel.attach_file,"Attach a file"
+panel.open_conversations,"Open conversations"
+panel.closed_conversations,"Closed conversations"
+panel.total_conversations,"Total conversations"
+panel.messages_history,"Messages History"
+panel.support_summary,"Support summary"
+panel.classes_support,"Courses support"
+panel.support_tickets,Tickets
+panel.staff,Staff
+panel.teacher,Instructor
+panel.open,Open
+panel.closed,Closed
+panel.close_request,"Close request"
+panel.reply_to_the_conversation,"Reply to the conversation"
+panel.support_no_result,"You don't have support messages"
+panel.support_no_result_hint,"You can contact instructors and platform support team."
+panel.select_support,"Select a conversation"
+panel.select_support_hint,"Please select a support conversation to display messages history."
+panel.message_filters,"Filter messages"
+panel.notification_no_result,"No notifications."
+panel.notification_no_result_hint,"Every important event will be noticed to you..."
+panel.show_only_new_comments,"Show only new comments"
+panel.reply_to_the_comment,"Reply to the comment"
+panel.edit_comment,"Edit comment"
+panel.marketing,Marketing
+panel.discounts,Discounts
+panel.create_a_new_discount,"New course discount"
+panel.create_a_new_special_offer,"Create a new special offer"
+panel.show_only_active_discounts,"Show only active discounts"
+panel.discount_no_result,"No discount is available..."
+panel.discount_no_result_hint,"You can create discounts and increase your sales."
+panel.special_offers_no_result,"No Discount..."
+panel.special_offers_no_result_hint,"You can add discount to your courses and increase your sales."
+panel.promotion,Promotion
+panel.promotions,Promotions
+panel.select_promotion_plan,"Select a promotion plan"
+panel.promotions_history,"Promotions history"
+panel.promotion_days,"For :day days"
+panel.select_course,"Select a course"
+panel.show_only_active_promotions,"Show only active promotions"
+panel.popular,Popular
+panel.plan,Plan
+panel.pay,Pay
+panel.expired,Expired
+panel.promote_the_webinar,"Promote a course"
+panel.select_webinar_for_promotion,"Please select a course that you want to promote."
+panel.promotion_no_result,"No Promotion!"
+panel.promotion_no_result_hint,"By activating promotion plans you can increase your courses view and sales."
+panel.filter_instructors,"Filter Instructors"
+panel.instructors_list,"Instructors List"
+panel.add_an_instructor,"New instructor"
+panel.instructors_no_result,"No instructor added yet!"
+panel.instructors_no_result_hint,"You can create instructors related to the organization."
+panel.filter_students,"Filter Students"
+panel.students_list,"Students List"
+panel.add_an_student,"New student"
+panel.students_no_result,"No student added yet!"
+panel.students_no_result_hint,"You can add your organization students easily."
+panel.meeting_sales,"Meeting sales"
+panel.appointment_sales,"Meeting sales"
+panel.bio,Biography
+panel.job_title,"Job Title"
+panel.bio_hint_1,"The ""Job title"" will be displayed at the bottom of your name on the profile cards."
+panel.bio_hint_2,"Keep it short (2 or 3 words) Eg ""Product designer, Senior software engineer""."
+panel.interests_hint_1,"Choosing interest topics (for instructors) will help students to find you for live meetings."
+panel.interests_hint_2,"If you conduct live meetings choosing more accurate topics suggested."
+panel.not_assign_any_webinar,"Not assigned to any course"
+panel.active,Active
+panel.inactive,Disable
+panel.name,Name
+panel.special_offers,"Special Offers"
+panel.special_offer,"Special Offer"
+panel.show_only_active_special_offers,"Show Only Active Special Offers"
+panel.offline_title,"Activate offline status"
+panel.offline_message,"Offline message"
+panel.offline_success,"Your status changed successfully!"
+panel.offline_hint,"If you put your account offline, a message will be displayed in your profile and it will be noticed to users. You can type a personalized message in the following input."
+panel.month_1,Jan
+panel.month_2,Feb
+panel.month_3,Mar
+panel.month_4,Apr
+panel.month_5,May
+panel.month_6,Jun
+panel.month_7,Jul
+panel.month_8,Aug
+panel.month_9,Sep
+panel.month_10,Oct
+panel.month_11,Nov
+panel.month_12,Dec
+panel.user_setting_success,"Your information successfully updated"
+panel.remaining,Remained
+panel.organization_classes,"Organization courses"
+panel.filter_classes,"Filter courses"
+panel.only_not_free_classes,"Only paid courses"
+panel.only_free_classes,"Only free courses"
+panel.new_noticeboard,"New notice"
+panel.noticeboard_success_send,"New notice successfully sent"
+panel.noticeboard_success_send_to,"New noticeboard successful send for :users_count"
+panel.more_info,"More info"
+panel.partner_instructor_hint,"The partner instructor will have access to the course content and their profile will be displayed on the course page."
+panel.affiliate,Affiliate
+panel.affiliates,Affiliate
+panel.affiliates_page,"Affiliate Marketing"
+panel.affiliate_statistics,"Affiliate Statistics"
+panel.affiliate_summary,"Affiliate Summary"
+panel.earnings,Earnings
+panel.referred_users,"Referred Users"
+panel.registration_bonus,"Registration Bonus"
+panel.affiliate_bonus,"Sales Commission"
+panel.registration_date,"Registration Date"
+panel.user_registration_reward,"Your income from each referred user registration"
+panel.referred_user_purchase_commission,"Your commission from referred user purchases"
+panel.referred_user_registration_reward,"The referred user income when registers with your affiliate code"
+panel.your_affiliate_code,"Your affiliate code"
+panel.affiliate_url,"Your Affiliate URL"
+panel.content_defined,"Content Defined"
+panel.purchased_courses,"Purchased Courses"
+passwords.reset,"Your password has been reset!"
+passwords.sent,"We have emailed your password reset link!"
+passwords.throttled,"Please wait before retrying."
+passwords.token,"This password reset link is invalid."
+passwords.user,"No user found with this email address."
+product.course,Course
+product.courses,Courses
+product.text_course,"Text Course"
+product.video_course,"Video Course"
+product.information,Information
+product.content,Content
+product.review,Review
+product.reviews,Reviews
+product.Webinar_description,"About this course"
+product.post_comment,"Post comment"
+product.post_review,"Post review"
+product.comment_success_store,"Comment sent successfully!"
+product.comment_success_store_msg,"Your comment will be published after approved by admin."
+product.guarantee_text,"5 Days money back guarantee"
+product.product_designer,"Product Designer"
+product.content_quality,"Content quality"
+product.instructor_skills,"Instructor skills"
+product.purchase_worth,"Purchase worth"
+product.support_quality,"Support quality"
+product.report_the_course,"Report course"
+product.reason,Reason
+product.select_reason,"Select a reason"
+product.report_modal_hint,"Please describe about the report short and clearly."
+public.title,Title
+public.sub_title,Subtitle
+public.name,Name
+public.seo_description,"SEO Meta Description"
+public.cover_image,"Cover Image"
+public.thumbnail_image,Thumbnail
+public.image,Image
+public.images,Images
+public.demo_video,"Demo Video"
+public.optional,Optional
+public.description,Description
+public.summary,Summary
+public.study_time,"Study Time"
+public.date_time,Date/Time
+public.availability_times,"Availability Times"
+public.available,Available
+public.available_for_meetings,"Available for Meetings"
+public.meeting,Meeting
+public.meetings,Meetings
+public.link,Link
+public.duration,Duration
+public.minutes,Minutes
+public.min,Min
+public.view,View
+public.view_profile,"View Profile"
+public.review_or_edit,Review/Edit
+public.review,Review
+public.invited,Invited
+public.try_again,"Try again"
+public.you_can_try_again,"Don't be worried, you can try again."
+public.start,Start
+public.volume,Volume
+public.file_type,"File Type"
+public.accessibility,Accessibility
+public.choose_accessibility,"Free or Paid?"
+public.attachments,Attachments
+public.choose_attachments,"Choose related files as lesson attachments"
+public.paid,Paid
+public.paid_amount,"Paid Amount"
+public.instructor,Instructor
+public.instructors,Instructors
+public.students,Students
+public.students_and_instructors,"Students and Instructors"
+public.search_instructors,"Search Instructors..."
+public.publish_date,"Date Published"
+public.forced,Forced
+public.yes,Yes
+public.no,No
+public.course_sessions,"Class Sessions"
+public.previous_lesson,"Previous Lesson"
+public.next_lesson,"Next Lesson"
+public.drag_to_change_order,"Drag to change order"
+public.controls,Actions
+public.phone,Phone
+public.mobile,Phone
+public.email,Email
+public.add_time,"Add Time"
+public.clear_all,"Clear All"
+public.additional_information,"Additional Information"
+public.capacity,Capacity
+public.start_date,"Start Date"
+public.time,Time
+public.date,Date
+public.date_created,"Date Created"
+public.partner_instructor,"Partner Instructor"
+public.subscribe,Subscribe
+public.add_to_cart,"Add to Cart"
+public.add_to_calendar,"Add to Calendar"
+public.add_to,"Add to"
+public.reminder,Reminder
+public.calendar,Calendar
+public.price,Price
+public.0_for_free,"Enter 0 for Free"
+public.free,Free
+public.enroll_on_webinar,"Enroll on Course"
+public.free_meetings,"Free Meetings"
+public.select_a_partner_teacher,"Select a partner instructor"
+public.select_a_teacher,"Select an Instructor"
+public.choose_instructor,"Select an Instructor"
+public.search,Search
+public.search_instructor,"Search instructor name, email or phone"
+public.search_user,"Search user"
+public.tags,Tags
+public.type_tag_name_and_press_enter,"Type tag name and press enter"
+public.moderator_password,"Moderator Password"
+public.category,Category
+public.choose_category,"Select a Category"
+public.category_filters,"Category Filters"
+public.tickets,Tickets
+public.add_ticket,"New Pricing Plan"
+public.add_plan,"New Plan"
+public.add_new_ticket,"New Pricing Plan"
+public.discount,Discount
+public.ticket_no_result,"No pricing plan!"
+public.ticket_no_result_hint,"By creating pricing plans you can add time and capacity-depended prices for your course."
+public.edit,Edit
+public.delete,Delete
+public.remove,Remove
+public.list,List
+public.reservation,Reservation
+public.my_reservation,"My reservations"
+public.result,Result
+public.results,Results
+public.my_results,"My results"
+public.all,All
+public.sessions,Sessions
+public.add_session,"New Session"
+public.add_new_sessions,"New Live Session"
+public.sessions_no_result,"No live sessions!"
+public.sessions_no_result_hint,"You can create live sessions so students will be able to join and start learning."
+public.create_join_link,"Create join link"
+public.newest,Newest
+public.expensive,"Highest Price"
+public.inexpensive,"Lowest Price"
+public.bestsellers,Bestsellers
+public.best_rates,"Best Rated"
+public.files,Files
+public.file,File
+public.source,Source
+public.add_files,"New File"
+public.add_new_files,"Add new file"
+public.files_no_result,"No file is defined!"
+public.files_no_result_hint,"You can define course video parts, projects, attachments and exercises as files."
+public.test_lesson,"Text Lesson"
+public.lesson,Lesson
+public.add_test_lesson,"New text lesson"
+public.add_new_test_lesson,"Add new text lesson"
+public.text_lesson_no_result,"No text lesson!"
+public.text_lesson_no_result_hint,"Create text lessons so students will be able to enroll on them and start learning."
+public.prerequisites,Prerequisites
+public.add_prerequisites,"New Prerequisite"
+public.add_new_prerequisites,"Add new prerequisite"
+public.select_prerequisites,"Select Prerequisite"
+public.search_prerequisites,"Search for prerequisites"
+public.prerequisites_no_result,"No prerequisite is defined!"
+public.prerequisites_no_result_hint,"You can create forced or suggested prerequisites for students to learn better."
+public.basic_information,"Basic Information"
+public.extra_information,"Extra Information"
+public.pricing,Pricing
+public.content,Content
+public.faq,FAQ
+public.add_faq,"New FAQ"
+public.answer,Answer
+public.answers,Answers
+public.view_answers,"View answers"
+public.faq_no_result,"No FAQ is defined!"
+public.faq_no_result_hint,"By creating FAQs you will help users to know more about your course."
+public.quiz_certificate,"Quiz & Certification"
+public.certificate,Certificate
+public.certificate_id,"Certificate ID"
+public.certificate_and_documents,"Certificates & Documents"
+public.add_quiz,"New Quiz"
+public.add_new_quizzes,"New Quiz"
+public.select_a_quiz,"Select a Quiz"
+public.quiz,Quiz
+public.questions,Questions
+public.total_mark,"Total Mark"
+public.pass_mark,"Pass Mark"
+public.mark,Mark
+public.not_participated,"Not Participated"
+public.dont_have_quiz,"You do not have a quiz, please define a quiz."
+public.quizzes_no_result,"No Quizz is selected for this course."
+public.quizzes_no_result_hint,"By creating quizzes you can evaluate students and award certificates to them."
+public.agree_rules,"I agree with terms & rules."
+public.message_to_reviewer,"Message to reviewer"
+public.send_for_review,"Send for Review"
+public.save_as_draft,"Save as Draft"
+public.draft,Draft
+public.waiting,Waiting
+public.done,Done
+public.reject,Reject
+public.rejected,Rejected
+public.close,Close
+public.save,Save
+public.continue,Continue
+public.submit,Save
+public.new,New
+public.history,History
+public.item_id,"Item ID"
+public.export_list,"Export students list"
+public.duplicate,Duplicate
+public.updated_at,"Updated Date"
+public.from,From
+public.to,To
+public.show_results,"Show Results"
+public.status,Status
+public.published,Published
+public.type,Type
+public.active,Active
+public.verified,Verified
+public.not_verified,"Not Verified"
+public.inactive,Disable
+public.disabled,Disabled
+public.disable,Disable
+public.open,Open
+public.invoice,Invoice
+public.feedback,Feedback
+public.by,By
+public.finish,Finish
+public.finished,Finished
+public.pending,Pending
+public.selected,Selected
+public.select,Select
+public.required,Required
+public.not_bought,"Not Purchased!"
+public.not_access,"Access Denied!"
+public.not_access_to_this_content,"You dont have access to this content!"
+public.play,Play
+public.play_online,"Play (Stream)"
+public.read,Read
+public.are_you_sure,"Are you sure?"
+public.deleteAlertHint,"This action cannot be undone!"
+public.deleteAlertConfirm,Delete
+public.deleteAlertFailHint,"Error while deleting item!"
+public.deleteAlertSuccessHint,"Item successfully deleted."
+public.cancel,Cancel
+public.canceled,Canceled
+public.success,Success
+public.fail,Failed
+public.unavailable,Unavailable
+public.unavailable_description,"Unavailability message"
+public.not_defined,"Not defined"
+public.days,Days
+public.day,Day
+public.hr,Hr
+public.sec,Sec
+public.off,Off
+public.offer,":off% Offer"
+public.sort_by,"Sort by"
+public.in,in
+public.created_by,"Created by"
+public.created_at,"Created Date"
+public.created,Created
+public.create,Create
+public.save_change,Save
+public.ratings,Ratings
+public.share,Share
+public.share_this_course_with_others,"Share course with your friends"
+public.profile,Profile
+public.telegram,Telegram
+public.facebook,Facebook
+public.whatsapp,Whatsapp
+public.twitter,Twitter
+public.book_a_meeting,"Book a Meeting"
+public.author_posts,"Author Posts"
+public.reserve_a_meeting,"Reserve a Meeting"
+public.go_to_class,"Go to Course"
+public.go_to_settings,"Go to Settings"
+public.course_page_title,Course
+public.duplicate_review_for_webinar,"Duplicate review for course"
+public.creator,Creator
+public.manual,Manual
+public.automatic,Automatic
+public.start_payment,"Start Payment"
+public.pay,Pay
+public.saturday,Saturday
+public.sunday,Sunday
+public.monday,Monday
+public.tuesday,Tuesday
+public.wednesday,Wednesday
+public.thursday,Thursday
+public.friday,Friday
+public.all_days,"All Days"
+public.my_panel,"My Panel"
+public.my_profile,"My Profile"
+public.user_profille_page_title,"User Profile"
+public.edit_selected_image,"Crop selected image"
+public.request_failed,"Request Failed"
+public.request_success,"Request done successfully!"
+public.cart_page_title,Cart
+public.checkout_page_title,Checkout
+public.channel_payment_disabled,"Payment gateway is disabled."
+public.income_los_then_minimum_payout,"Your income is less than minimum payout amount. Please wait to pass limitation."
+public.paid_form_online_payment,"Online payment"
+public.paid_form_credit,"Paid form credit"
+public.paid_for_sale,"Paid for sale"
+public.tax_get_form_buyer,"Tax form buyer"
+public.income_sale,"Sales income"
+public.paid_for_commission,"Paid for commission"
+public.get_commission_from_seller,"Seller commission"
+public.get_commission_from_referral,"Affiliate income"
+public.get_amount_from_referral,"Affiliate income"
+public.refund_money_to_buyer,"Refunded to buyer"
+public.refund_tax,"Refunded tax"
+public.refund_commission_to_seller,"Refunded commission to seller"
+public.refund_commission,"Refunded commission"
+public.refund_income,"Refunded income"
+public.charge_account,"Charge account"
+public.withdraw_account,"Withdraw balance"
+public.income_for_subscribe,"Item subscription income"
+public.paid_form_subscribe,"Paid using subscription"
+public.income_for_promotion,"Paid for promotion"
+public.ticket_for_students_until_date,"For first :students students until :date"
+public.ticket_until_date,"until :date"
+public.about,About
+public.specifications,Specifications
+public.educations,Education
+public.experiences,Experiences
+public.occupations,"Skill Topics"
+public.identity_and_financial,"Identity & Financial"
+public.copy,Copy
+public.copied,Copied
+public.user_role,"User Type"
+public.all_roles,"All Types"
+public.error_404_page_title,"Page not found"
+public.i_passed_this_lesson,"I passed this lesson"
+public.course_learning_change_status_success,"Your learning status successfully changed."
+public.course_learning_change_status_error,"Failed to change learning status."
+public.course_learning_passed,":percent% of the course is passed."
+public.not_login_toast_lang,"Restricted Content"
+public.not_login_toast_msg_lang,"Please login to access the content."
+public.not_access_toast_lang,"Access denied"
+public.not_access_toast_msg_lang,"You dont have access to this content."
+public.can_not_try_again_quiz_toast_lang,"Reched out"
+public.can_not_try_again_quiz_toast_msg_lang,"You can not take this quiz again."
+public.can_not_download_certificate_toast_lang,"Download failed"
+public.can_not_download_certificate_toast_msg_lang,"You can not download this certificate."
+public.session_finished_toast_title_lang,"Session Finished"
+public.session_finished_toast_msg_lang,"You are too late, this session finished."
+public.zoom_api,"Zoom API"
+public.zoom_jwt_token,"Zoom JWT Token"
+public.how_zoom_jwt_token,"How to create Zoom JWT token"
+public.instructor_is_not_available,"Instructor is temporarily unavailable."
+public.chapter,Section
+public.chapters,Sections
+public.add_new_chapter,"Add New Section"
+public.add_text_lesson,"New Text Lesson"
+public.new_chapter,"New Section"
+public.edit_chapter,"Edit Section"
+public.chapter_title,"Section Title"
+public.topic,Topic
+public.parts,Parts
+public.content_defined,"Content Defined"
+public.no_chapter,"No Section"
+public.add_file,"New File"
+public.topic_post,"Topic Post"
+public.forbidden_request_toast_lang,"""FORBIDDEN"" Request"
+public.forbidden_request_toast_msg_lang,"You not access to this content."
+site.send_message,"Send Message"
+site.send_request,"Send request"
+site.appointments,Meetings
+site.about,About
+site.badges,Badges
+site.book_an_appointment,"Reserve a meeting"
+site.education,Education
+site.new_education,"New education"
+site.edit_education,"Edit education"
+site.add_education,"Add education"
+site.new_education_hint,"Describe your education degree in a single line."
+site.new_education_exam,"Example: PhD of Medicine from Michigan university"
+site.experiences,Experiences
+site.new_experience,"New experience"
+site.edit_experience,"Edit experience"
+site.new_experience_hint,"Describe your experience in a single line."
+site.new_experience_exam,"Example: Marketing manager at Microsoft 2012 - 2013"
+site.add_experiences,"Add experiences"
+site.occupations,Skills
+site.view_available_times,"Click on a day and view available times"
+site.pick_a_time,"Pick a time"
+site.selected_date,"Selected date"
+site.instructor_not_available,"Instructor is not available for meetings..."
+site.instructor_not_have_badge,"Instructor doesn't have badge!"
+site.instructor_not_have_webinar,"Instructor doesn't have any course!"
+site.not_create_bio,"Instructor biography is not available!"
+site.instructor_hourly_charge,"The instructor hourly charge is "
+site.identity_and_financial,"Identity & financial"
+site.identity_and_financial_verified,"Your identity & financial information approved so you cant change them. If you want to change, please contact support."
+site.identity_and_financial_not_verified,"Your identity and financial information not verified so it might cause delay in the payout process. Please define them using following fields."
+site.check_identity_settings,"Please check your identity setting"
+site.filter_items,"Filter items"
+site.more_options,"More options"
+site.show_only_courses_with_quiz,"Show only courses with quiz"
+site.show_only_featured_webinars,"Show only featured courses"
+site.show_only_subscribe,"Show only subscribes"
+site.show_only_certificate_included,"Show only certificate included"
+site.result_find,":count Results found for 
+ "":search"""
+site.no_result_search,"Result not found!"
+site.no_result_search_hint,"No result found for "":search"" you can try again."
+site.newest_courses_subtitle,"#Recently published courses"
+site.news,News
+site.posts,Posts
+site.popular_posts,"Popular posts"
+site.recent_posts,"Recent posts"
+site.contact_us,"Contact US"
+site.our_address,Address
+site.phone_number,Phone
+site.send_your_message_directly,"Send your message directly"
+site.your_name,"Your name"
+site.subject,Subject
+site.message,Message
+site.captcha,Captcha
+site.not_defined,"Not Defined"
+site.contact_store_success,"Your message received we will review it an get back to you."
+site.load_more_instructors,"More instructors"
+site.best_rated_instructors,"Best rated instructors"
+site.best_rated_instructors_subtitle,"#Learn from the best instrcutors"
+site.top_rate,"Top rate"
+site.top_sellers,"Top sellers"
+site.top_sellers_subtitle,"#Know best sellers and contact them"
+site.become_instructor,"Become instructor"
+site.become_instructor_success_request,"Your request send successfully and it will be reviewed soon."
+site.extra_information,"Extra information"
+site.subscribe_not_valid,"Subscription failed"
+site.you_dont_have_active_subscribe,"You do not have an active Subscription plan."
+site.you_have_active_subscribe,"Subscribed successfully"
+site.you_bought_webinar,"The course enrolled successfully."
+site.search_page_title,Search
+site.categories_page_title,Categories
+site.login_page_title,Login
+site.register_page_title,Registration
+site.about_page_title,About
+site.contact_page_title,"Contact US"
+site.certificate_validation_page_title,"Certificate validation"
+site.certificate_validation,"Certificate Validation"
+site.certificate_validation_hint,"To validate certificates please enter the certificate id in this input field and click on validate button."
+site.certificate_not_found,"This certificate is not valid."
+site.certificate_is_valid,"Certificate is valid"
+site.certificate_is_valid_hint,"This certificate is valid with the following information."
+site.create_newsletter_success,"Email newsletter successfully subscribed."
+site.user_disabled_public_message,"User public messages disabled!"
+site.you_have_message_from,"You have a message from :email"
+site.message_success_sent,"Message successfully sent"
+site.server_error_try_again,"Server error! Try again later"
+site.store_error_try_again,"Operation failed! Try again later"
+update.agora,"In-App live class"
+update.chat,Chat
+update.record,Record
+update.features,Features
+update.resolution,Resolution
+update.max_bitrate,"Max bitrate"
+update.min_bitrate,"Min bitrate"
+update.frame_rate,"Frame rate"
+update.agora_live_streaming,"In-App live class"
+update.agora_chat,"Enable chat in live class page"
+update.agora_recording,"Enable recording"
+update.agora_in_free_courses,"Allow instructors to use In-App live class for free live classes"
+update.agora_chat_placeholder,"Enter your message"
+update.joined_the_live,"Joined the live session..."
+update.send_message_to_channel,"Send a message to class"
+update.wait_to_join_the_channel,"Connecting to the live session, please wait..."
+update.microphone,Microphone
+update.camera,Camera
+update.end_live,"End Live"
+update.end_live_confirm,"Are you sure to end the live session?"
+update.share_screen,"Share screen"
+update.type_your_message,"Type your message..."
+update.this_live_has_been_ended,"This live session has been ended."
+update.this_live_has_not_started_yet,"This live session has not started yet!"
+update.this_live_has_not_started_yet_hint,"You can wait on this page and it will be displayed for you once the session starts by the instructor."
+update.a_few_moments_redirect_to_panel,"You will be redirected to the panel in a few moments..."
+update.chat_not_active,"Chat Disabled..."
+update.chat_not_active_hint,"Chat is not available for this class!"
+update.agora_history,"In-App live history"
+update.session_duration,"Session duration"
+update.meeting_duration,"Meeting duration"
+update.you_cannot_enter_this_session,"You can not enter this session!"
+update.join_to_the_session_has_been_disabled_by_the_instructor,"Joining the session has been disabled by the instructor."
+update.joining_users_to_the_meeting_was_stopped,"Joining users to the meeting disabled."
+update.joining_users_to_the_session_is_enabled,"Joining users to the session enabled."
+update.join_is_active,"Joining enabled"
+update.joining_is_disabled,"Joining disabled"
+update.agora_for_meeting,"Enable in-app live system for meetings"
+update.create_a_session,"Create a session"
+update.create_a_live_session,"Create a live session"
+update.new_in-app_call_session,"New in-app call session"
+update.are_you_sure_to_create_an_in-app_live_session_for_this_meeting,"Are you sure to create an in-app live session for this meeting?"
+update.join_the_live_session_now,"Join the live session now!"
+update.live_session_created_successfully_and_you_can_join_it_right_now,"Live session created successfully and you can join it right now..."
+update.you_can_join_the_session_now,"You can join the session now"
+update.your_meeting_date_is,"Your reserved meeting date is"
+update.add_live_meeting_session_success,"Live meeting session successfully created!"
+update.join_to_session,"Join to session"
+update.the_instructor_created_a_call_session_for_you,"The instructor created a live session for you."
+update.meeting_live_stream_type,"Meeting live streaming API"
+update.course_live_stream_type,"Live class live streaming API"
+update.multiple,"Video call API (Multiple Stream)"
+update.meeting_single,"Live streaming API (Single Stream)"
+update.meeting_multiple,"Video call API (Multiple Stream)"
+update.regions,Localization
+update.region,Region
+update.countries,Countries
+update.provinces,Provinces
+update.cities,Cities
+update.districts,Districts
+update.country,Country
+update.province,Province
+update.city,City
+update.district,District
+update.new_country,"New Country"
+update.new_province,"New Province"
+update.new_district,"New District"
+update.new_city,"New City"
+update.select_country,"Select Country"
+update.select_province,"Select Province"
+update.select_city,"Select City"
+update.select_district,"Select District"
+update.select_location,"Select Location"
+update.location,Location
+update.select_location_hint,"Select your location on the map. This location will be displayed on the tutor finder page."
+update.settings,Settings
+update.gender,Gender
+update.man,Male
+update.woman,Female
+update.age,Age
+update.meeting_support,"Meeting support"
+update.in_person,In-person
+update.online,Online
+update.both,Both
+update.level_of_training,"Training level"
+update.beginner,Beginner
+update.middle,Intermediate
+update.expert,Advanced
+update.group,Group
+update.group_meeting,"Group meeting"
+update.address,Address
+update.manage_meetings,"Manage meetings"
+update.in_person_meetings,"In-person meetings"
+update.in_person_meetings_unavailable,"In-person meetings unavailable"
+update.available_for_in_person_meetings,"Available for In-person meetings"
+update.available_for_group_meeting,"Available for group meetings"
+update.hourly_amount,"Hourly Price"
+update.online_group_meeting_options,"Online Group Meeting Options"
+update.in_person_group_meeting_options,"In-person Group Meeting Options"
+update.minimum_students,"Minimum Students"
+update.maximum_students,"Maximum Students"
+update.finalize_your_meeting,"Finalize your meeting"
+update.participates,Participates
+update.group_meeting_hourly_rate_per_student,"Group meeting hourly rate is :amount per student."
+update.group_meeting_student_count_hint,"The instructor group meeting capacity is :min to :max students. The main price will be applied."
+update.group_meeting_max_student_count_hint,"Maximum group meeting capacity is :max."
+update.total_price,"Total Price"
+update.save_time_description_placeholder,"Description (Optional)"
+update.reserve_time_description_placeholder,"Description (Optional)"
+update.reservation_appointment_student_count,":count P."
+update.looking_for_an_instructor,"Tutor Finder"
+update.looking_for_an_instructor_hint,"Find a perfect match for individual or group meetings and reserve a time online."
+update.find_the_best_instructor_now,"Find the best instructor now..."
+update.become_an_instructor,"Become an instructor"
+update.become_instructor_tagline,"start earning right now..."
+update.skill_topic,"Tutoring Subject"
+update.step,Step
+update.which_category_are_you_interested,"Which subject do you want to learn?"
+update.prev,Prev.
+update.meeting_type,"Meeting Type"
+update.choose_the_meeting_type,"Which meeting type do you prefer?"
+update.population,Population
+update.single,Individual
+update.your_skill_level,"Tutoring Level"
+update.which_skill_level_do_you_want_to_learn,"Which skill level do you want to learn?"
+update.meeting_time,"Meeting Time"
+update.what_time_is_better_for_the_meeting,"What time do you prefer for learning?"
+update.im_flexible,"I'm flexible"
+update.hour,Hour
+update.hours_tutoring,"Hours Tutoring"
+update.filters,Filters
+update.student_level,"Training level"
+update.select_student_level,"Select student level"
+update.instructor_gender,"Instructor gender"
+update.not_preferenced,"Not preferenced"
+update.instructor_type,"Instructor type"
+update.instructor_finder_no_result,"Result not found!"
+update.instructor_finder_no_result_hint,"Sorry! We didnt find an instructor. Try different conditions."
+update.course_page,"Course Page"
+update.quiz_page,"Quiz Page"
+update.my_courses,"My Courses"
+update.learnt,Learnt
+update.please_wait_for_the_content_to_load,"Please wait for the content to load"
+update.download_the_file,"Download the file"
+update.show_html_file,"Play SCORM Course"
+update.show,Show
+update.session_is_live,"Session is live!"
+update.you_can_join_the_live_now,"You can join the live now..."
+update.join_the_class,"Join the class"
+update.session_is_not_started_yet,"Session is not started yet"
+update.this_session_will_be_started_on,"This session will be started on"
+update.check_again,"Check Again"
+update.session_is_finished,"Session is finished"
+update.this_session_is_finished_You_cant_join_it,"This session is finished. You cant join it."
+update.go_to_the_quiz_page_for_more_information,"Go to the quiz page for more information"
+update.download_certificate,"Download the certificate"
+update.enjoy_sharing_your_certificate_with_others,"Enjoy sharing your certificate with others..."
+update.not_available_for_meeting,"Temporary not available"
+update.rewards,"Reward Points"
+update.you_got_50_points,"You earned 50 points!"
+update.for_completing_the_course,"for completing the course..."
+update.rewards_settings,"Reward Points Settings"
+update.score,"Point Reward"
+update.reward_type_account_charge,"Account Charge"
+update.reward_type_create_classes,"Publishing a Course"
+update.reward_type_buy,Purchase
+update.reward_type_pass_the_quiz,"Quiz Pass"
+update.reward_type_certificate,"Achieving a Certificate"
+update.reward_type_comment,Comment
+update.reward_type_register,Registration
+update.reward_type_review_courses,"Course Review (Rate)"
+update.reward_type_instructor_meeting_reserve,"Meeting Reservation (Instructor)"
+update.reward_type_student_meeting_reserve,"Meeting Reservation (Student)"
+update.reward_type_newsletters,"Joining Newsletter"
+update.reward_type_badge,"New Badge"
+update.reward_type_referral,"Referral & Affiliate"
+update.reward_type_learning_progress_100,"Course Completion"
+update.reward_type_charge_wallet,"Conditional Account Charge"
+update.reward_type_buy_store_product,"Purchase Store Products"
+update.reward_type_pass_assignment,"Assignment Pass"
+update.reward_type_make_topic,"Create a Forum Topic"
+update.reward_type_send_post_in_topic,"Posting a Reply in Forum"
+update.reward_type_create_blog_by_instructor,"Publishing a Blog Post"
+update.reward_type_comment_for_instructor_blog,"Comment on Instructors Articles"
+update.reward_type_withdraw,"Withdraw points"
+update.points_statistics,"Points & Rewards Statistics"
+update.available_points,"Remained Points"
+update.total_points,"Total Points"
+update.points,Points
+update.spent_points,"Spent Points"
+update.exchange_or_get_a_course,"Convert your points or get free courses"
+update.exchange_or_get_a_course_by_spending_points_hint,"You can convert your earned points to the wallet charge or get free courses by spending points. You can get"
+update.just_get_a_course_by_spending_points_hint,"You can exchange your earned points to get free courses by spending points"
+update.for_your_available_points,"For your available points"
+update.exchange,"Convert Points"
+update.exchange_points,"Convert Points"
+update.you_will_get_n_for_points,"You will get :amount for :points points"
+update.the_amount_will_be_charged_to_your_wallet,"The amount will be charged to your wallet immediately."
+update.browse_courses,"Browse Courses"
+update.want_more_points,"Want to get more points?"
+update.want_more_points_hint,"Learn how our point rewarding system works and get more points."
+update.view_more,"View more"
+update.leaderboard,Leaderboard
+update.add,Earn
+update.minus,Spend
+update.reward_no_result,"No earned points!"
+update.reward_no_result_hint,"You have no earned points. Start using the platform and earn points and rewards."
+update.exchangeable,"Points conversion"
+update.exchangeable_unit,"Points conversion rate"
+update.exchangeable_unit_hint,"The user will get 1 currency unit for this amount of points. e.g. if you enter 500, the user will get $1 for each 500 points"
+update.admin_reward_setting_active_hint,"By activating this feature, the system will calculate point rewards based on user actions"
+update.admin_reward_setting_exchangeable_hint,"Enable this feature to allow users to convert their point rewards to the wallet charge"
+update.want_more_points_link,"Points policy page"
+update.want_more_points_link_hint,"You can create a page for encouraging users to become familiar with this feature and put the link here. This link will be displayed in the user's panel."
+update.exchange_success_alert_title,"Points converted!"
+update.exchange_success_alert_desc,"All of your points converted to the wallet charge."
+update.exchange_error_alert_title,"Conversion failed!"
+update.exchange_error_alert_desc,"Please try again later."
+update.exchange_reward_points_to_wallet,"Convert earned points to the wallet."
+update.conditions,Conditions
+update.condition,Condition
+update.new_condition,"New Condition"
+update.value,Value
+update.button,Button
+update.buy,Buy
+update.my_points,"My Points"
+update.this_email_used_by_another_user,"This email used by another user"
+update.buy_with_n_points,"Buy with :points points"
+update.buy_with_points,"Buy with points"
+update.this_course_requires_n_points,"This course requires :points points."
+update.you_have_n_points,"You have :points points."
+update.do_you_want_to_proceed,"Do you want to proceed?"
+update.you_have_no_enough_points_for_this_course,"You have no enough points to enroll on this course..."
+update.can_not_buy_this_course_with_point,"You can't buy this course by points."
+update.success_pay_course_with_point_msg,"You enrolled on the course using points!"
+update.file_source_upload,Upload
+update.file_source_youtube,Youtube
+update.file_source_vimeo,Vimeo
+update.file_source_external_link,"External Link"
+update.file_source_google_drive,"Google Drive"
+update.file_source_iframe,iFrame
+update.file_source_s3,"Amazon S3"
+update.file_source_upload_placeholder,"Uploads files from your PC"
+update.file_source_youtube_placeholder,"Paste Youtube link"
+update.file_source_vimeo_placeholder,"Paste Youtube link"
+update.file_source_external_link_placeholder,"Paste the external link"
+update.file_source_google_drive_placeholder,"Drive preview link (Embed) starts with iframe tag"
+update.file_source_iframe_placeholder,"Paste whole of the iframe code"
+update.file_source_s3_placeholder,"Upload files from your PC to S3"
+update.file_source_upload_archive,Upload
+update.new_interactive_file,"New SCORM"
+update.interactive_feature_toggle,"Enable SCORM file upload"
+update.interactive_type,"SCORM Type"
+update.scorm_settings,"SCORM Settings"
+update.choose_file,"Choose a file"
+update.choose_zip_file,"Choose a zip file"
+update.adobe_captivate,"Adobe Captivate"
+update.i_spring,iSpring
+update.custom,Custom
+update.interactive_file_name,"SCORM index file name"
+update.interactive_file_name_placeholder,"e.g. scorm.html"
+update.default_time_zone,"Default time zone"
+update.timezone,"Time Zone"
+update.timezone_in_create_webinar,"Allow instructors to select the time zone for live classes"
+update.timezone_in_register,"Show time zone selection in the registration form"
+update.date_format,"Date Format"
+update.time_format,"Time Format"
+update.textual,Textual
+update.numerical,Numerical
+update.24_hours,"24 Hours"
+update.12_hours,"12 Hours"
+update.note,Note
+update.appointment_timezone_note_hint,"All of the time slots displayed in the time zone :timezone"
+update.instructor_hourly_charge_in_person_amount,"The instructor hourly charge for in-person classes is "
+update.instructor_conducts_group_meetings,"This instructor conducts group meetings (:min to :max students)."
+update.saas,SaaS
+update.package,Package
+update.registration_package,"SaaS Package"
+update.registration_packages,"SaaS Packages"
+update.instructors_count,"Instructors count"
+update.students_count,"Students count"
+update.courses_capacity,"Live class capacity"
+update.courses_count,"Courses count"
+update.meeting_count,"Meeting time slots"
+update.active_by_instructors,"Active Instructor Packages"
+update.active_by_organization,"Active Organization Packages"
+update.total_buy_organization_packages,"Organization Packages Sales"
+update.total_buy_instructors_packages,"Instructor Packages Sales"
+update.general,General
+update.registration_packages_list_hint_title_1,"Packages Statistics"
+update.registration_packages_list_hint_description_1,"You can see the number of the activated packages by different user roles."
+update.registration_packages_list_hint_title_2,"Default Parameters"
+update.registration_packages_list_hint_description_2,"Don't limit users to packages. Define default values from the SaaS/Settings and let them try your platform."
+update.registration_packages_general_status_hint,"The ""SaaS Packages"" menu will be displayed in the user panel"
+update.registration_packages_general_status,"Active SaaS"
+update.show_packages_during_registration_hint,"The user will be redirected to the package selection page after submitting the ""Become instructor"" form"
+update.show_packages_during_registration,"Display SaaS packages in registration"
+update.force_user_to_select_a_package_hint,"The user should select a package to complete ""Become instructor"" process"
+update.force_user_to_select_a_package,"Force users to select a package"
+update.enable_home_section_hint,"The ""Become instructor"" section will be displayed on the home page"
+update.enable_home_section,"Enable home section"
+update.instructor_default_values,"Instructor default values"
+update.organization_default_values,"Organizations default values"
+update.registration_packages_instructors_status,"Enable SaaS for instructors"
+update.registration_packages_instructors_status_hint,"By activating this option, the system will limit some features for instructors according to the default values and they need to upgrade their accounts using packages."
+update.registration_packages_organizations_status,"Enable SaaS for organizations"
+update.registration_packages_organizations_status_hint,"By activating this option, the system will limit some features for organizations according to the default values and they need to upgrade their accounts using packages."
+update.user_registration_packages_status_hint,"By activating this option, the following parameters will be checked for this user"
+update.activation_date,"Activation Date"
+update.account_statistics,"Account Statistics"
+update.live_students,"Live Students"
+update.unlimited,Unlimited
+update.meeting_hours,"Meeting Time Slots"
+update.upgrade_your_account,"Upgrade your account"
+update.activated,Activated
+update.purchase,Purchase
+update.upgrade,Upgrade
+update.default,Default
+update.become_instructor_section,"Join as instructor"
+update.become_instructor_section_hint,"and start earning money..."
+update.registration_package_not_valid,"Invalid SaaS Package"
+update.paid_for_registration_package,"Paid for SaaS Package"
+update.purchased_registration_package,"Purchased SaaS Package"
+update.upgrade_your_plan,"Upgrade your plan"
+update.your_account_limited,"Your account is limited."
+update.your_account_instructors_count_limited_hint,"Please upgrade your current package to reach more instructors."
+update.your_account_students_count_limited_hint,"Please upgrade your current package to reach more students."
+update.your_account_courses_capacity_limited_hint,"Please upgrade your current package to reach more courses capacity."
+update.your_account_courses_count_limited_hint,"Please upgrade your current package to reach more courses."
+update.your_account_meeting_count_limited_hint,"Please upgrade your current package to reach more meeting times."
+update.your_current_plan_instructors_count,"Your current plan instructors count is :count."
+update.your_current_plan_students_count,"Your current plan students count is :count."
+update.your_current_plan_courses_capacity,"Your current plan courses capacity is :count."
+update.your_current_plan_courses_count,"Your current plan courses count is :count."
+update.your_current_plan_meeting_count,"Your current plan meeting count is :count."
+update.saas_settings,"SaaS Settings"
+update.select_role,"Select a user role"
+update.select_registration_package_hint,"Select a SaaS package according to your requirements and get started..."
+update.default_package,"Default Package"
+update.default_package_hint,"You will have access to these parameters without purchasing a package"
+update.back,Back
+update.skip,Skip
+update.instructor_occupations,Occupations
+update.organization_occupations,Occupations
+update.instructor_select_role,"Account type"
+update.organization_select_role,"Account type"
+update.instructor_certificate_and_documents,"Certificates and documents"
+update.organization_certificate_and_documents,"Business Documents"
+update.instructor_select_account_type,"Payout account"
+update.organization_select_account_type,"Payout account"
+update.instructor_iban,IBAN
+update.organization_iban,IBAN
+update.instructor_account_id,"Account id"
+update.organization_account_id,"Account id"
+update.instructor_identity_scan,"Identity scan"
+update.organization_identity_scan,"Registration scan"
+update.instructor_extra_information,"Extra information"
+update.organization_extra_information,"Extra information"
+update.discount_type,"Discount type"
+update.fixed_amount,"Fixed Amount"
+update.discount_max_amount_placeholder,"Max coupon amount for an order"
+update.discount_amount_placeholder,"discount amount for an order"
+update.minimum_order,"Minimum Order"
+update.discount_minimum_order_placeholder,"discount minimum order placeholder"
+update.discount_users_placeholder,"Search and select a user (for all users leave it empty)"
+update.discount_user_group_placeholder,"Search and select a user group (for all groups leave it empty)"
+update.source,Source
+update.discount_source_all,All
+update.discount_source_course,Course
+update.discount_source_category,Category
+update.discount_source_meeting,Meeting
+update.apply_only_for_the_first_purchase,"Apply only for the first purchase"
+update.apply_only_for_the_first_purchase_hint,"By activating this option, the code will be valid for the user's first purchase"
+update.discount_code_has_expired,"The coupon has expired."
+update.discount_code_minimum_order_error,"The discount coupon minimum amount is :min_order"
+update.discount_code_group_error,"This coupon is not valid for your user group."
+update.discount_code_for_first_purchase_error,"This coupon is only for the first purchase."
+update.discount_code_used_count_error,"The coupon reached usage times."
+update.search_categories,"Search categories"
+update.discount_code_is_for_courses_error,"This coupon is for courses only. You have no course in your cart."
+update.discount_code_is_for_meetings_error,"This coupon is for meetings only. You have no meeting in your cart."
+update.your_coupon_is_valid_for_another_course,"Your coupon is not valid for this course."
+update.your_coupon_is_valid_for_another_category,"Your coupon is not valid for this category."
+update.price_display,"Price Display"
+update.display_only_price,"Only Price"
+update.display_total_price,"Total Price (Tax included price)"
+update.display_price_and_tax,"Price and tax"
+update.send_newsletter,"Send newsletter"
+update.send_newsletter_description_hint,"Make sure about your SMTP server capabilities and limitations before sending bulk emails."
+update.send_method,"Sending Method"
+update.send_newsletter_to_all,"Send to all newsletter members"
+update.send_newsletter_to_bcc,"Send to BCC email"
+update.send_newsletter_to_excel,"Send to an Excel list"
+update.send_newsletter_select_excel_file,"Select an Excel file"
+update.send_newsletter_bcc_email,"Enter BCC email"
+update.newsletters_history,"Newsletter History"
+update.email_count,"Sent emails"
+update.attachment,Attachment
+update.attach_the_payment_photo,"Attach the payment receipt"
+update.path,Path
+update.passed_grade,"Passed grade"
+update.attempts,Attempts
+update.currency_position,"Currency Position"
+update.currency_position_left,Left
+update.currency_position_right,Right
+update.currency_position_left_with_space,"Left with space"
+update.currency_position_right_with_space,"Right with space"
+update.go_to_learning_page,"Go to learning page"
+update.meeting_settings,"Meeting Settings"
+update.price_range,"Price Range"
+update.instructor_age,"Instructor Age"
+update.time_range,"Time Range"
+update.meeting_added_to_cart,"Meeting addedto_cart"
+update.deleted_item,"Deleted item"
+update.deleted_subscribe,"Deleted subscribe"
+update.deleted_promotion,"Deleted promotion"
+update.deleted_user,"Deleted user"
+update.file_type_pdf,PDF
+update.file_type_powerpoint,Powerpoint
+update.file_type_sound,Sound
+update.file_type_video,Video
+update.file_type_image,Image
+update.file_type_archive,Archive
+update.file_type_document,Document
+update.file_type_project,Project
+update.learning_page,"Learning page"
+update.disabled_add_to_cart,"Live Class Conducted"
+update.file_type_mp4,Video
+update.video,Video
+update.store,Store
+update.product,Product
+update.products,Products
+update.new_product,"New Product"
+update.add_new_product,"Add New Product"
+update.create_new_product,"Create new product"
+update.edit_product,"Edit product"
+update.physical,Physical
+update.physical_product,"Physical Product"
+update.physical_products,"Physical Products"
+update.total_physical_products,"Total Physical Products"
+update.virtual,Virtual
+update.virtual_product,"Virtual Product"
+update.virtual_products,"Virtual Products"
+update.total_virtual_products,"Total Virtual Products"
+update.download_all_files_after_payment,"Download all files after payment."
+update.total_sellers,"Total Sellers"
+update.total_buyers,"Total Customers"
+update.inventory_desc,"Inventory Descending"
+update.inventory_asc,"Inventory Ascending"
+update.no_inventory,"Out of Stock"
+update.inventory,Inventory
+update.specification,Specification
+update.specifications,Specifications
+update.add_new_specification,"Add a new specification"
+update.new_specification,"New specification"
+update.edit_specification,"Edit specification"
+update.input_type,"Input type"
+update.textarea,Textarea
+update.description,Description
+update.multi_value,Multi-value
+update.this_product_has_an_active_discount,"This product has an active discount."
+update.product_comments,"Product comments"
+update.new_product_page_title,"Create new product"
+update.product_summary_placeholder,"Keep the summary short. It will be displayed on the top of the product page."
+update.parameters,Parameters
+update.product_summary,"Product Summary"
+update.enable_ordering,"Enable Ordering"
+update.create_product_enable_ordering_hint,"By disabling this toggle, users won't be able to order this product."
+update.delivery,Delivery
+update.delivery_fee,"Delivery Fee"
+update.delivery_estimated_time,"Delivery estimated time"
+update.inventory_warning,"Inventory warning"
+update.unlimited_inventory,"Unlimited inventory"
+update.create_product_unlimited_inventory_hint,"By enabling this toggle, the product inventory won't be multiplied."
+update.images,Images
+update.product_images_size,"360x250px preferred"
+update.thumbnail_images_size,"360x250px preferred"
+update.product_files_hint_1,"The customer will access to these files after purchase."
+update.specifications_no_result,"No specifications!"
+update.specifications_no_result_hint,"You can define different specifications for the product."
+update.search_and_select_specifications,"Search and select specifications"
+update.products_without_review,"Products Without Reviews"
+update.select_specification_params,"Select specification params"
+update.allow_user_selection,"Allow user selection"
+update.allow_user_selection_hint,"By enabling this feature, users will be able to select these parameters while ordering."
+update.product_faq_no_result,"No FAQ!"
+update.product_faq_no_result_hint,"Define FAQ for your product and help users."
+update.my_products,"My Products"
+update.class,Course
+update.products_statistics,"Products Statistics"
+update.physical_sales,"Physical Sales"
+update.virtual_sales,"Virtual Sales"
+update.out_of_stock,"Out of stock"
+update.ordering_off,"Ordering Disabled"
+update.product_type,"Product type"
+update.product_type_virtual,Virtual
+update.product_type_physical,Physical
+update.availability,Availability
+update.in_stock,"In stock"
+update.new_discount,"New discount"
+update.shipping_cost,"Shipping Cost"
+update.waiting_orders,"Waiting Orders"
+update.products_search_placeholder,"Search in store"
+update.free_shipping,"Free Shipping"
+update.shipping,Shipping
+update.options,Options
+update.only_available_products,"Only available products"
+update.products_with_points,"Products with points"
+update.max_four_image_can_select,"You can define maximum 4 images for each product."
+update.delivery_estimated_time_days_alert,"This item will be shipped in :days days."
+update.product_share_text,"This product with your friends!"
+update.seller,Seller
+update.search_seller,"Search seller"
+update.search_product,"Select a product"
+update.search_instructor,"Select an instructor"
+update.0_for_free_delivery,"Enter 0 for free delivery"
+update.inventory_warning_hint,"When the product inventory reaches this amount, a warning will be displayed on the product page."
+update.duplicate_review_for_product,"duplicate review for product"
+update.you_not_purchased_this_product,"You have not purchased this product"
+update.course_not_found,"Course Not found"
+update.only_n_left,"Only :count left!"
+update.share_this_product_with_others,"Share this product with others"
+update.product_not_availability,"Product is not available"
+update.you_bought_product,"This product Bought"
+update.cant_purchase_your_product,"You can not buy your product"
+update.shipping_and_delivery,"Shipping and delivery"
+update.message_to_seller,"Message to seller"
+update.cart_order_estimated_delivery_time,"Order estimated delivery time"
+update.cart_order_estimated_delivery_time_hint,"Your order includes physical products and the estimated delivery time is :days days."
+update.product_purchased,"Product purchased"
+update.orders,Orders
+update.orders_statistics,"Orders Statistics"
+update.purchases_statistics,"Purchases Statistics"
+update.total_orders,"Total Orders"
+update.total_success_orders,"Total Completed orders"
+update.total_canceled_orders,"Total Canceled Orders"
+update.total_waiting_orders,"Total Waiting Orders"
+update.pending_orders,"Pending Orders"
+update.canceled_orders,"Canceled Orders"
+update.total_purchase,"Total Purchase"
+update.orders_report,"Orders Report"
+update.orders_history,"Orders History"
+update.purchases_report,"Purchases Report"
+update.purchases_history,"Purchases history"
+update.customer,Customer
+update.customer_id,"Customer ID"
+update.seller_id,"Seller ID"
+update.quantity,Quantity
+update.product_order_status_waiting_delivery,"Waiting for Delivery"
+update.product_order_status_shipped,Shipped
+update.product_order_status_success,Completed
+update.product_order_status_canceled,Canceled
+update.product_sales_lists_page_title,"Sales Lists"
+update.product_purchases_lists_page_title,"Purchases Lists"
+update.product_sales_no_result,"Your sales list is empty..."
+update.product_sales_no_result_hint,"Your product sales will appear here."
+update.product_purchases_no_result,"Your purchases list is empty..."
+update.product_purchases_no_result_hint,"Your product purchases will appear here."
+update.enter_tracking_code,"Enter Tracking Code"
+update.tracking_code,"Tracking Code"
+update.tracking_code_success_save,"Tracking Code successfully saved"
+update.view_tracking_code,"View Tracking Code"
+update.i_got_the_parcel,"Parcel receive confirmation"
+update.i_got_the_parcel_confirm,"Do you confirm you got the parcel? You won't be able to revert this action."
+update.i_got_the_parcel_success_save,"This order completed successfully!"
+update.i_got_the_parcel_error_save,"This order failed! You can contact support."
+update.confirm,Confirm
+update.product_comments_list,"Product comments list"
+update.creators,Sellers
+update.product_url,"Product URL"
+update.product_url_hint,"The product URL must be unique, use it without spaces. It will be generated by default; you can use the default."
+update.product_tax_hint,"Apply a particular tax rate for this product. Leave it blank to use the default."
+update.product_commission_hint,"Apply a particular commission rate for this product. Leave it blank to use the default."
+update.select_a_creator,"Select a seller"
+update.please_fix_the_error_fields_that_are_specified,"Please review the form and fix specified errors."
+update.required_points,"Required Points"
+update.product_points_hint,"Users will be able to purchase the product using point rewards. Leave it blank to disable purchasing with points."
+update.in-house-products,"In-house Products"
+update.in-house-orders,"In-house Orders"
+update.sellers,Sellers
+update.products_sellers,"Products Sellers"
+update.your_account_product_count_limited_hint,"Please upgrade your plan to reach more products."
+update.your_current_plan_product_count,"Your current plan product count is :count."
+update.orders_lists,"Orders List"
+update.order_id,"Order ID"
+update.admin_webinars_comments_page_title,"Course Comments"
+update.admin_blog_comments_page_title,"Blog Comments"
+update.admin_products_comments_page_title,"Product Comments"
+update.admin_store_reviews_list_title,"Product Reviews"
+update.store_settings,"Store Settings"
+update.admin_store_setting_active_hint,"To use the store feature, turn it on."
+update.virtual_product_commission,"Virtual products commission"
+update.physical_product_commission,"Physical products commission"
+update.virtual_product_commission_setting_hint,"This commission rate will be applied for virtual products (e.g. 20)"
+update.physical_product_commission_setting_hint,"This commission rate will be applied for physical products (e.g. 20)"
+update.admin_store_setting_tax_hint,"Tax rate for store orders (e.g. 15)"
+update.possibility_create_virtual_product,"Virtual Products Submission"
+update.possibility_create_virtual_product_hint,"Vendors will be able to post virtual products from the front"
+update.possibility_create_physical_product,"Physical Products Submission"
+update.possibility_create_physical_product_hint,"Vendors will be able to post physical products from the front"
+update.shipping_tracking_url,"Shipping Tracking URL"
+update.track_shipping,"Track Parcel"
+update.shipping_tracking_url_hint,"This URL will be displayed on the front and users will be able to track their orders."
+update.admin_store_setting_activate_comments,"Enable Comments"
+update.admin_store_setting_activate_comments_hint,"Allow users to leave comments on the store product pages"
+update.admin_user_edit_can_create_store_hint,"By enabling this toggle, the user will have access to the ""Store"" feature while it is disabled in the settings menu."
+update.product_demo,"Product Demo"
+update.chapter_no_result,"No sections!"
+update.chapter_no_result_hint,"By creating sections you can organize the course content in different chapters."
+update.chapter_content_no_result,"No contents!"
+update.chapter_content_no_result_hint,"Create different course contents for students."
+update.sequence_content,"Drip content"
+update.sequence_content_settings,"Drip Content Settings"
+update.check_previous_parts,"Force student to pass previous parts"
+update.access_after_day,"Access days limit"
+update.access_after_day_placeholder,"e.g 10 for allowing the student to access this part after 10 days."
+update.check_all_contents_pass,"The student should pass all parts"
+update.this_content_will_be_accessible_for_you_on_date,"This content will be accessible for you on :date"
+update.you_should_pass_the_previous_lesson_to_view_this_part,"You should pass the previous lesson to view this part."
+update.you_should_pass_the_previous_chapter_to_view_this_chapter_parts,"You should pass the previous chapter to view this chapter contents."
+update.sequence_content_error_modal_title,"Access denied!"
+update.purchased_products,"Purchased Products"
+update.deadline,Deadline
+update.assignment_attachments_placeholder,"Choose an attachment"
+update.assignments,Assignments
+update.add_new_assignments,"New Assignment"
+update.not_submitted,"Not submitted"
+update.submissions,Submissions
+update.submission_times,"Submission Times"
+update.min_grade,"Min Grade"
+update.assignment_history,"Assignment History"
+update.send_assignment,"Send Assignment"
+update.file_title,"File Title"
+update.send,Send
+update.pass_grade,"Pass Grade"
+update.attach_a_file,"Attach a file"
+update.no_assignment,"No Assignments!"
+update.submit_your_assignment_and_evaluate_your_learning,"Submit your assignments and evaluate your learning quality."
+update.assignment_history_status_not_submitted,"Not submitted"
+update.assignment_history_status_pending,Pending
+update.assignment_history_status_passed,Passed
+update.assignment_history_status_not_passed,"Not passed"
+update.n_day,":day Days"
+update.assignment_deadline_error_title,"Deadline Reached!"
+update.assignment_deadline_error_desc,"You can not send files..."
+update.assignment_submission_error_title,"Submission Times Reached!"
+update.assignment_submission_error_desc,"You can not send more files..."
+update.assignment_passed_title,"Assignment Passed!"
+update.assignment_passed_desc,"You passed it successfully..."
+update.assignment_not_passed_title,"Assignment Failed!"
+update.assignment_not_passed_desc,"You can not send files..."
+update.send_assignment_success,"Send Assignment successfully"
+update.my_assignments,"My Assignments"
+update.assignment_statistics,"Assignment Statistics"
+update.students_assignments,"Students Assignments"
+update.filter_assignments,"Filter Assignments"
+update.course_assignments,"Course Assignments"
+update.your_course_assignments,"Your Course Assignments"
+update.my_assignments_no_result,"No Assignments!"
+update.my_assignments_no_result_hint,"Your student's assignments will appear here."
+update.my_assignments_no_result_hint_student,"Your courses doesn't include any assignments."
+update.title_and_course,Title/Course
+update.first_submission,"First Submission"
+update.your_students_assignments,"Your Students Assignments"
+update.last_submission,"Last Submission"
+update.view_assignment,"View Assignment"
+update.pending_review,"Pending Review"
+update.all_assignments,"All Assignments"
+update.my_courses_assignments,"My courses assignments"
+update.select_user,"Select a user"
+update.reply_to_the_conversation,"Reply to the conversation"
+update.rate_the_assignment,"Rate the assignment"
+update.assignments_grade,"Assignment Grade"
+update.by_submitting_the_grade_you_the_assignment_will_be_closed,"By submitting the grade, the assignment will be closed."
+update.save_assignment_grade_success,"Assignment grade saved successfully"
+update.assignment_settings,"Assignments Settings"
+update.assignment_conversations,"Assignment Conversation"
+update.discount_source_product,"Store Products"
+update.private_content,"Private Content"
+update.private_content_settings,"Private Mode"
+update.private_content_settings_hint,"Enable this feature to restrict your website's content for not logged-in users. These users won't be able to view the course page."
+update.disable_view_content_after_user_register,"Admin approval for content access"
+update.disable_view_content_after_user_register_hint,"By enabling this feature, the user won't have access to the content after registration. Admin should approve the user to access the content."
+update.private_content_login_hint,"You need to log in to access the course content."
+update.access_to_content,"Content Access"
+update.not_access_to_content,"Access Management"
+update.not_access_to_content_hint,"Please wait for the admin approval to access the content."
+update.users_do_not_have_access_to_the_content,"Restricted users list"
+update.content_access_was_enabled_for_the_user,"Content access was enabled for :user user."
+update.certificate_additional,"Additional data field"
+update.user_certificate_additional,"National ID"
+update.admin_template,"Admin Template"
+update.front_template,"Front Template"
+update.theme_color_primary,Primary
+update.theme_color_secondary,Secondary
+update.theme_color_primary-border,"Primary Border"
+update.theme_color_primary-hover,"Primary Hover"
+update.theme_color_primary-border-hover,"Primary Border Hover"
+update.theme_color_primary-btn-shadow,"Primary Button Shadow"
+update.theme_color_primary-btn-shadow-hover,"Primary Button Shadow Hover"
+update.theme_color_primary-btn-color,"Primary Button Color"
+update.theme_color_primary-btn-color-hover,"Primary Button Color Hover"
+update.theme_color_secondary-border,"Secondary Border"
+update.theme_color_secondary-hover,"Secondary Hover"
+update.theme_color_secondary-border-hover,"Secondary Border Hover"
+update.theme_color_secondary-btn-shadow,"Secondary Button Shadow"
+update.theme_color_secondary-btn-shadow-hover,"Secondary Button Shadow Hover"
+update.theme_color_secondary-btn-color,"Secondary Button Color"
+update.theme_color_secondary-btn-color-hover,"Secondary Button Color Hover"
+update.theme_color_primary_hint,"It will be replaced with the ""Green"" color in the front"
+update.theme_color_secondary_hint,"It will be replaced with the ""Dark Blue"" color in the front"
+update.theme_color_primary-border_hint,"It will be replaced with the ""Green"" color for borders in the front"
+update.theme_color_primary-hover_hint,"It will be considered as the primary color (Default greeen) hover color"
+update.theme_color_primary-border-hover_hint,"It will be applied for ""Green outlined"" items hover state in front"
+update.theme_color_primary-btn-shadow_hint,"Example: 0 3px 6px 0 rgb(64 213 125 / 30%)"
+update.theme_color_primary-btn-shadow-hover_hint,"Example: 0 3px 6px 0 rgb(64 213 125 / 30%)"
+update.theme_color_primary-btn-color_hint,
+update.theme_color_primary-btn-color-hover_hint,
+update.theme_color_secondary-border_hint,
+update.theme_color_secondary-hover_hint,
+update.theme_color_secondary-border-hover_hint,
+update.theme_color_secondary-btn-shadow_hint,"Example: 0 3px 6px 0 rgb(64 213 125 / 30%)"
+update.theme_color_secondary-btn-shadow-hover_hint,"Example: 0 3px 6px 0 rgb(64 213 125 / 30%)"
+update.theme_color_secondary-btn-color_hint,
+update.theme_color_secondary-btn-color-hover_hint,
+update.main_font,"Main Font"
+update.rtl_font,"RTL Font"
+update.medium,Medium
+update.bold,Bold
+update.regular,Regular
+update.send_notification_to_students,"send a notification to students"
+update.the_notification_was_successfully_sent_to_n_students,"The notification was successfully sent to :count students."
+update.bundle,"Course Bundle"
+update.bundles,"Course Bundles"
+update.new_bundle,"New Course Bundle"
+update.new_bundle_page_title_step,"New Course Bundle - Step :step"
+update.include_subscribe,"Enable Subscribe"
+update.bundle_webinar_no_result,"No Courses in Bundle!"
+update.bundle_webinar_no_result_hint,"Add courses to the bundle and sell them together."
+update.add_course,"Add course"
+update.add_new_course,"Add a new course to bundle"
+update.bundle_webinars_required_hint,"Search one of your existing courses and assign it to this bundle."
+update.bundle_sales_count,"Bundle Sales Count"
+update.bundle_sales,"Bundle Sales"
+update.my_bundles,"My Bundles"
+update.create_a_bundle,"Create a bundle"
+update.you_not_have_any_bundle,"You don't have any bundle"
+update.no_result_bundle_hint,"Create course bundles and sell several courses in a bundle."
+update.enroll_on_bundle,"Purchase Bundle"
+update.bundle_specifications,"Bundle Specifications"
+update.bundle_description,"Bundle Description"
+update.you_not_purchased_this_bundle,"You have not purchased this bundle"
+update.bundle_not_found,"Bundle Not Found"
+update.total_bundles,"Total Course Bundles"
+update.bundle_url,"Bundle URL"
+update.bundle_title,"Bundle Title"
+update.bundle_url_hint,"The course bundle URL must be unique, use it without spaces. It will be generated by default; you can use the default."
+update.this_course_has_already_been_selected_for_this_bundle,"This course has already been selected for this bundle."
+update.latest_bundles,"Latest bundles"
+update.latest_bundles_hint,"Latest bundles subtitle"
+update.can_not_buy_this_bundle_with_point,"You can not purchase this bundle with reward points."
+update.you_have_no_enough_points_for_this_bundle,"You don't have enough points to purchase this bundle..."
+update.success_pay_bundle_with_point_msg,"Bundle purchased with points successfully!"
+update.access_days,"Access Period (Days)"
+update.access_days_input_hint,"The user must repurchase after expiring course access period."
+update.access_days_expired,"Access period expired"
+update.expired_on_date,"Expire Date :date"
+update.course_notices,"Course Notices"
+update.course_notice,"Course Notice"
+update.general_notice,"General Notice"
+update.new_course_notices,"New course notice"
+update.new_notice_hint,"Send a notice to all of your students or specific course students."
+update.color,Color
+update.all_colors,"All colors"
+update.select_a_color,"Select a color"
+update.bundle_not_free,"Course Bundle Paid"
+update.you_bought_bundle,"You already purchased this bundle."
+update.course_forum_settings,"Course Forum"
+update.course_forum_settings_status_hint,"By enabling this option, students will be able to create new questions and communicate with other students."
+update.course_forum,"Course Forum"
+update.forum,Forum
+update.question_title,"Question Title"
+update.forum_settings,"Forum Settings"
+update.forum_settings_status_hint,"By enabling this feature, a professional forum will be added to your website. It will improve your website's SEO and increase user engagement."
+update.panel_course_forum_hint,"By enabling this feature, students will be able to create questions and communicate with other students."
+update.resolved,Resolved
+update.open_questions,"Open Questions"
+update.active_users,"Active Users"
+update.communicate_others_and_ask_your_questions,"Communicate others and ask your questions!"
+update.search_in_this_forum,"Search in this forum"
+update.ask_new_question,"Ask a new question"
+update.no_questions,"No Questions!"
+update.no_questions_hint,"Ask a question in the course forum and communicate others"
+update.last_activity,"Last Activity"
+update.last_answer,"Last Answer"
+update.answers,Answers
+update.new_question,"New Question"
+update.pined,Pinned
+update.pin,Pin
+update.un_pin,Unpin
+update.mark_as_resolved,"Mark as resolved"
+update.mark_as_not_resolved,"Mark as unresolved"
+update.not_resolved,Unresolved
+update.write_a_reply,"Post a reply"
+update.post_reply,"Post a reply"
+update.oops,Oops...
+update.something_went_wrong,"Something went wrong..."
+update.changes_saved_successfully,"Changes saved successfully."
+update.be_the_first_to_answer_this_question,"Be the first person who answers this question."
+update.need_help?,"Need help?"
+update.create_a_topic_in_forum,"Create a topic in the forum..."
+update.forum_top_section_hint,"If you need help with any included topic, you can create a topic in the forum and start communication with other users."
+update.search_discussions,"Search discussions..."
+update.forums,Forums
+update.new_forum,"New Forum"
+update.sub_forums,Sub-forums
+update.include_sub_forums,"Includes Sub-forums"
+update.new_sub_forums,"Add a Sub-forum"
+update.topics,Topics
+update.forum_topics,"Forum topics"
+update.members,Members
+update.forum_closed,"Forum closed"
+update.topic_actions,"Topic actions"
+update.new_featured_topic,"New Featured Topic"
+update.edit_featured_topic,"Edit Featured Topic"
+update.new_recommended_topic,"New Recommended Topic"
+update.edit_recommended_topic,"Edit Recommended Topic"
+update.featured_topics,"Featured Topics"
+update.featured_topics_hint,"Explore featured topics and get involved in the conversation"
+update.n_posts,":count Posts"
+update.n_topics,":count Topics"
+update.forums_categories_hints,"Browse different forums, create new topics or get involved in different topics"
+update.recommended_topics,"Recommended Topics"
+update.recommended_topics_hint,"Explore the most popular topics in the community, enjoy them & share your great ideas with others."
+update.have_a_question?,"Have a Question?"
+update.ask_it_in_forum_and_get_answer,"Ask it in the forum and get the answer"
+update.have_a_question_hint,"Our forum helps you to create your questions on different subjects and communicate with other forum users. Our users will help you to get the best answer!"
+update.create_new_topic,"Create new topic"
+update.create_a_new_topic,"Create a new topic"
+update.publish_topic,"Publish topic"
+update.browse_forums,"Browse forums"
+update.topics_in_this_forum,":count topics in this forum"
+update.popular_topics,"Popular Topics"
+update.not_answered,"Not Answered"
+update.top_users,"Top Users"
+update.edit_topic,"Edit Topic"
+update.edit_post,"Edit Post"
+update.topic_and_post_reports,"Topic and post reports"
+update.search_topic,"Search Topic"
+update.new_topic,"New Topic"
+update.attachments,Attachments
+update.new_topic_hint,"Create new topics and communicate with other users"
+update.topic_title,"Topic title"
+update.topic_title_placeholder,"Topic title placeholder"
+update.terms_and_rules_confirmation,"Terms and rules confirmation"
+update.terms_and_rules_confirmation_hint,"By posting a forum topic, you will accept community terms and rules."
+update.category_description,"Category description"
+update.forum_description,"Forum description"
+update.featured_topics_hint_title1,"Featured Topics"
+update.featured_topics_hint_description1,"Featured topics will be displayed differently from normal topics to get more views and traffic."
+update.featured_topics_hint_title2,"Display Position"
+update.featured_topics_hint_description2,"Featured topics will be displayed on the forum home page."
+update.recommended_topics_hint_title1,"Recommended Topics"
+update.recommended_topics_hint_description1,"You can assign several topics to each ""Recommended Topic""."
+update.recommended_topics_hint_title2,"Display Position"
+update.recommended_topics_hint_description2,"Recommended topics will be displayed on the forum home page in different cards."
+update.new_topic_successfully_created,"New topic successfully created."
+update.topic_successfully_delete,"Topic successfully deleted."
+update.post_successfully_delete,"Post successfully deleted."
+update.topic_bookmarked_successfully,"Topic bookmarked successfully"
+update.topic_un_bookmarked_successfully,"Topic removed from bookmarks"
+update.bookmark,Bookmark
+update.bookmarks,Bookmarks
+update.likes,Likes
+update.subscribes,Subscribes
+update.n_likes,":count Likes"
+update.member_since,"Member since"
+update.reply_to_the_topic,"Reply to the topic"
+update.reply_to_topic_successfully_submitted,"Reply to topic successfully submitted"
+update.you_are_replying_to_the_message,"You are replying to the <span></span> message"
+update.reply_to,"Reply to"
+update.report_successfully_submitted,"Report successfully submitted"
+update.login_to_reply,"Login to reply"
+update.login_to_reply_hint,"Please login to reply to this topic"
+update.topic_closed,"Topic Closed"
+update.topic_closed_successful,"Topic Closed successfully!"
+update.topic_opened_successful,"Topic Opened successfully!"
+update.topic_closed_hint,"You can not reply to closed topics"
+update.result_not_found,"Result not found!"
+update.try_another_word_to_reach_results,"Try another word to for more accurate search..."
+update.you_not_access_to_this_forum,"You don't have access to this forum"
+update.forum_group_role_hint,"If you select a user role or user group for a forum, the forum will be accessible only for users that are in the selected role or group."
+update.closed_forum_hint,"Users won't will be able to create new topics/replies in closed forums."
+update.topics_statistics,"Topics Statistics"
+update.published_topics,"Published Topics"
+update.disabled_topics,"Disabled Topics"
+update.locked_topics,"Closed Topics"
+update.topic_messages,"Topic Posts"
+update.filter_topics,"Filter Topics"
+update.filter_posts,"Filter Posts"
+update.my_topics,"My Topics"
+update.panel_topics_no_result,"No Topics!"
+update.panel_topics_no_result_hint,"Browse forums and create a new topic and communicate others."
+update.replies,Replies
+update.my_posts,"My Posts"
+update.panel_topics_posts_no_result,"No Posts!"
+update.panel_topics_posts_no_result_hint,"Browse forums and reply to topics."
+update.panel_topics_bookmark_no_result,"No Bookmarks!"
+update.panel_topics_bookmark_no_result_hint,"You can browse forums and bookmark topics for future usage."
+update.this_topic_will_be_removed_from_your_bookmark,"This topic will be removed from your bookmarks"
+update.search_results_for,"Search Results for "":temp"""
+update.search_results,"Search Results"
+update.still_no_luck,"Still no luck?"
+update.try_again_or_create_a_topic_for_it,"Try again or create a topic for it..."
+update.search_results_found,":count Search results found"
+update.explore_them_from_the_following_list,"Explore them from the following list"
+update.total_forums,"Total Forums"
+update.total_topics,"Total Topics"
+update.total_posts,"Total Posts"
+update.active_members,"Active Members"
+update.statistics,Statistics
+update.learning_page_empty_content_title_hint,"No course forum topics!"
+update.blog_statistics,"Articles Statistics"
+update.articles,Articles
+update.my_articles,"My Articles"
+update.new_article,"New Article"
+update.pending_publish,"Pending for Publish"
+update.visit_count,Views
+update.create_a_post,"Create an article"
+update.blog_post_no_result,"No Articles!"
+update.blog_post_no_result_hint,"Create your first acticle and share your knowledge."
+update.blog_cover_image_placeholder,"350x250px preferred"
+update.select_post,"Select post"
+update.blog_comments_list,"Blog comments list"
+update.instructor_not_have_posts,"The instructor doesn't have any articles!"
+update.instructor_not_have_topics,"The instructor doesn't have any topics!"
+update.instructor_not_have_products,"The instructor doesn't have any products!"
+update.cookie_settings,GDPR
+update.cookie_settings_status,GDPR
+update.cookie_settings_modal,GDPR
+update.add_items,"Add items"
+update.your_privacy,"Your privacy matters"
+update.your_privacy_hint,"Cookies and similar technologies are used on our sites to personalize content and ads. You can find further details and change your personal settings below. By clicking OK, or by clicking any content on our sites, you agree to the use of these cookies and similar technologies."
+update.accept_all,"Accept all"
+update.accept_all_cookies,"Accept all cookies"
+update.customize_settings,"Customize settings"
+update.confirm_my_choices,"Confirm my choices"
+update.cookie_security_successfully_submitted,"Cookie security successfully submitted"
+update.buttons,Buttons
+update.button_label,"Button Title"
+update.mobile_app,"Mobile app"
+update.mobile_app_status,"Mobile App-only Mode"
+update.mobile_app_only_hint,"By enabling this toggle, the platform's home page will be disabled and the mobile app download landing page will be loaded"
+update.download_mobile_app_and_enjoy,"Download 
+ Mobile app and enjoy!"
+update.mobile_app_button_icon_placeholder,"Preferred size 45x45px"
+update.mobile_app_hero_image_placeholder,"Preferred size 273x590px"
+update.organization_price,"Organization price"
+update.organization_price_hint,"This price will be applied for organization's students."
+update.multi_language_content,"Multi-language content"
+update.multi_language_content_hint,"You will be able to define the platform content in different languages. If turn it off, the language dropdown will be hidden."
+update.app_debugbar,"Enable Debugger"
+update.app_debugbar_hint,"Enable app debugger when needed to communicate with developers effectively and report errors with details."
+update.quiz_question_image_validation_by_video,"You can only fill in one of the image or video fields. Avoid filling both of them."
+update.quiz_and_certificates,"Quiz & Certificates"
+update.competition_certificates,"Completion Certificates"
+update.course_completion,"Course Completion"
+update.quiz_related,"Quiz Certificate"
+update.quizzes_related,"Quiz Certificates"
+update.course_certificates,"Completion Certificates"
+update.certificate_image_hint,"1190x850 Preferred"
+update.reminders,Reminders
+update.meeting_reminder_schedule,"Meeting reminder schedule (Hour)"
+update.subscribe_reminder_schedule,"Subscription expiry reminder schedule (Hour)"
+update.webinar_reminder_hint,"An email reminder will be sent to the user before starting live class sessions."
+update.meeting_reminder_hint,"An email reminder will be sent to the user before starting booked meetings."
+update.subscribe_reminder_hint,"An email reminder will be sent to the user before subscription expiration."
+update.infinite_use,"Unlimited use"
+update.extra_time_to_join,"Live Class Delay Time"
+update.default_time,"Default Delay (Minutes)"
+update.extra_time_hint,"Allow users to join live class sessions x minutes after starting class. You can also define it for each session separately."
+update.extra_meta_tags,"Additional Meta Tags"
+update.google_console,"Google console"
+update.extra_meta_tags_hint1,"You can define additional meta tags like the following examples:"
+update.extra_meta_tags_hint2,"<meta name=""google-site-verification"" content=""""******"" /> "
+update.extra_meta_tags_hint3,"<meta name=""viewport"" content=""width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"">"
+update.extra_meta_tags_hint4,"or other meta tags"
+update.learning_materials,"Learning materials"
+update.add_learning_materials,"New learning material"
+update.learning_materials_no_result,"No learning materials!"
+update.learning_materials_no_result_hint,"Create some learning materials and allow users to know what they will learn."
+update.company_logos,"Company logos"
+update.add_company_logos,"New company logo"
+update.company_logos_no_result,"No company logos!"
+update.company_logos_no_result_hint,"Define company logos and display them on the course page and increase credibility."
+update.requirements,Requirements
+update.add_requirements,"New requirement"
+update.requirements_no_result,"No requirements!"
+update.requirements_no_result_hint,"Define course requirements and help users to understand them before enrolment."
+update.new_item,"New item"
+update.what_you_will_learn,"What you will learn?"
+update.suggested_by_top_companies,"Suggested by top companies"
+update.suggested_by_top_companies_hint,"Top companies suggest this course to their employees and staff."
+update.course_statistics,"Course Statistics"
+update.pending_quizzes,"Pending Quizzes"
+update.pending_assignments,"Pending Assignments"
+update.total_rates,"Total Rating"
+update.forum_messages,"Forum Messages"
+update.forum_students,"Active Forum Students"
+update.students_user_roles,"Students user roles"
+update.course_progress,"Course Progress"
+update.completed,Completed
+update.not_started,"Not Started"
+update.assignments_status,"Assignments Status"
+update.progress,Progress
+update.passed_quizzes,"Passed Quizzes"
+update.unsent_assignments,"Unsent Assignments"
+update.course_statistic_students_no_result,"No student purchase yet!"
+update.course_statistic_students_no_result_hint,"This course doesn't have students..."
+update.active_students,"Active Students"
+update.expire_students,"Expired Access Students"
+update.average_learning,"Average learning"
+update.purchase_type,"Purchase type"
+update.learning,Learning
+update.add_student_to_course,"Add a student to the course"
+update.add_course_to_student,"Assign a course to this user"
+update.add_student_to_bundle,"Add a student to the bundle"
+update.add_student_to_product,"Add a customer to the product"
+update.rate_ascending,"Rating Ascending"
+update.rate_descending,"Rating Descending"
+update.purchased_courses,"Purchased Courses"
+update.manual_added,"Manually Added Classes"
+update.manual_disabled,"Manually Removed Classes"
+update.manual_added_bundles,"Manually Added Bundles"
+update.manual_disabled_bundles,"Manually Removed Bundles"
+update.manual_added_products,"Manually Added Products"
+update.manual_disabled_products,"Manually Removed Products"
+update.added_date,"Added Date"
+update.enable-student-access,"Enable student access"
+update.delete-student-access,"Remove student access"
+update.enable-student-access_successfully,"User access to the course was successfully added."
+update.delete-student-access_successfully,"User access to the course was successfully restricted"
+update.block_access,"Block Access"
+update.access_blocked,"Access Blocked"
+update.purchased_bundles,"Purchased Bundles"
+update.manual_add_hint,"List of contents that the student added to them manually."
+update.manual_remove_hint,"List of contents that the user purchased but the user's access removed by admin."
+update.purchased_hint,"List of contents that the user purchased normally."
+update.search_bundle,"Search bundles"
+update.advertising_modal,"Advertising Modal"
+update.advertising_modal_status_hint,"By enabling the advertising modal feature, an advertising modal will be displayed for users one time in each session."
+update.direct_classes_payment_button_settings,"""Buy Now"" Button"
+update.direct_classes_payment_button_status_hint,"By enabling this option, a ""Buy Now"" button will be added to the course page and users will be redirected to the checkout page directly."
+update.buy_now,"Buy now!"
+update.is_video_background,"Enable Video Background"
+update.is_video_background_hint,"If you want to use a video background, you need to upload an MP4 file for the background and enable this toggle."
+update.class_has_started,"Class has started"
+update.show_other_register_method,"Display alternative registration input field"
+update.show_other_register_method_hint,"If you set the registration method to ""SMS"", the email input field also will be displayed in the registration form and if you set the registration method to ""Email"", the phone number field will be displayed in the registration form."
+update.show_certificate_additional_in_register,"Show additional field in the registration form"
+update.show_certificate_additional_in_register_hint,"By enabling this option, an additional field will be displayed in the registration form and you can change the label and get your desired data from users."
+update.this_organization_has_no_instructor,"This organization has no instructors."
+update.checkout_payment,"Checkout Payment"
+update.product_count,"Store products count"
+update.store_products,"Store Products"
+update.store_products_hint,"Explore physical & virtual products"
+update.all_products,"All Products"
+update.buyer_address,"Customer Address"
+update.enroll_on_course,"Enroll on course"
+update.course_noticeboard_color_warning,Yellow
+update.course_noticeboard_color_danger,Red
+update.course_noticeboard_color_neutral,Gray
+update.course_noticeboard_color_info,Blue
+update.course_noticeboard_color_success,Green
+update.noticeboard_statistics,"Notice Statistics"
+update.total_noticeboards,"Total Notices"
+update.general_notices,"General Notices"
+update.filter_noticeboards,"Filter Notices"
+update.all_students,"All Students"
+update.course_students,"Course Students"
+update.change_chapter,"Change Chapter"
+update.select_chapter,"Select a Chapter"
+update.add_student_to_a_class,"Add a student to course"
+update.enrollment,Enrollment
+update.enrollment_history,"Enrollment History"
+update.normal_purchased,"Normal Purchase"
+update.delete_account,"Delete account"
+update.delete_account_modal_hint,"After confirmation by the site admin, your account will be deleted and your information will not be restored."
+update.delete_account_modal_confirm_btn_text,"Yes, I confirm!"
+update.delete-account-requests,"Delete Account Requests"
+update.delete_account_request_stored_msg,"Your request has been submitted, and your account will be deleted after admin confirmation."
+update.user_account_successful_deleted,"User account successful deleted"
+update.we_will_send_a_link_to_reset_your_password,"We will send a link to reset your password"
+update.cant_reserve_your_appointment,"You can not book an appointment"
+update.this_course_has_been_used_before,"This course has been used before"
+update.include_certificate,"Completion Certificate"
+update.certificate_completion_hint,"A certificate will be awarded to the student when passed the course."
+update.guarantee,"Guarantee Text"
+update.enter_guarantee_text,"Enter Guarantee Text"
+update.online_viewer,"Online viewer"
+update.add_to_not_access,"Restrict Content Access"
+update.content_access_limitation,"Disable Content Access"
+update.admin_user_edit_content_access_limitation_hint,"The user won't have access to all courses content."
+update.learning_page_empty_content_title,"No Content!"
+update.learning_page_empty_content_hint,"This course doesn't include any content"
+update.learning_page_empty_quiz_title,"No Quiz!"
+update.learning_page_empty_quiz_hint,"This course doesn't include any quizzes"
+update.learning_page_empty_certificate_title,"No Certificate!"
+update.learning_page_empty_certificate_hint,"This course doesn't include any certificates"
+update.items_sorted_successful,"Items sorted successfully"
+update.unlimited_time,"Unlimited Time"
+update.preview,Preview
+update.registration_form_options,"Registration form options"
+update.access_period,"Access Period"
+update.edit_answer,"Edit answer"
+update.admin_tagline,"Please login to control and manage everything!"
+update.delete_item,"Delete Item"
+update.the_amount_must_be_greater_than_0,"The amount must be greater than 0"
+update.bundle_comments,"Bundle Comments"
+update.admin_bundles_comments_page_title,"Bundle Comments"
+update.live_session,"Live Session"
+update.code,Code
+update.your_validation_code_on_the_site,"Your validation code on the :site"
+update.security,Security
+update.device_limit,"Device Limit"
+update.device_limit_hint,"Enable this option if you want to restrict the number of logged-in sessions for users"
+update.number_of_allowed_devices,"Number of allowed devices"
+update.number_of_allowed_devices_hint,"Specifies the number of logged-in sessions at the same time"
+update.login_failed_your_account_reached_maximum_number_of_active_sessions,"Login Failed/ Your account reached the maximum number of active sessions"
+update.display_limited_questions,"Display limited questions"
+update.number_of_questions,"Number of questions"
+update.total_questions,"Total questions"
+update.display_questions_randomly,"Display questions randomly"
+update.expiry_days,"Expiry days"
+update.quiz_expiry_days_hint,"The quiz will be expired X days after purchase"
+update.your_access_to_this_quiz_has_been_expired,"Your access to this quiz has expired"
+update.captcha_settings,"CAPTCHA Settings"
+update.captcha_for_admin_login,"Admin panel login page"
+update.captcha_for_admin_login_hint,"Enable CAPTCHA for admin panel login page"
+update.captcha_for_admin_forgot_pass,"Admin panel password recovery"
+update.captcha_for_admin_forgot_pass_hint,"Enable CAPTCHA for admin panel password recovery page"
+update.captcha_for_login,"Front login page"
+update.captcha_for_login_hint,"Enable CAPTCHA for the front login page"
+update.captcha_for_register,"Front registration page"
+update.captcha_for_register_hint,"Enable CAPTCHA for the front registration page"
+update.captcha_for_forgot_pass,"Front password recovery"
+update.captcha_for_forgot_pass_hint,"Enable CAPTCHA for the front password recovery page"
+update.category_url_hint,"The category URL must be unique, use it without spaces. It will be generated by default; you can use the default"
+update.order,Order
+update.category_order_hint,"User numbers for sorting categories"
+update.share_this_post_with_others,"Share this post with others"
+update.course_status_changes_to_approved,"Course approved successfully!"
+update.course_status_changes_to_rejected,"Course rejected successfully!"
+update.course_status_changes_to_unpublished,"Course unpublished successfully!"
+update.avatar_settings,"Avatar Settings"
+update.user_avatar_style,"User avatar type"
+update.default_avatar,"Default Avatar"
+update.ui_avatar,"UI Avatar"
+update.social_login_settings,"Social login settings"
+update.show_google_login_button,"Enable Google authentication"
+update.show_google_login_button_hint,"Enable Google sign-in for your website. You need to also configure Google Sign in to use this feature."
+update.show_facebook_login_button,"Enable Facebook authentication"
+update.show_facebook_login_button_hint,"Enable Google sign-in for your website. You need to also configure Google Sign in to use this feature."
+update.category_delete_confirm_msg,"Are you sure to delete this user?|When you delete a category, all of the category courses will be deleted as well"
+update.user_delete_confirm_msg,"Are you sure to delete this user?|When you delete a user, all of the user courses and other data will be deleted as well"
+update.author,Author
+update.select_a_user,"Select a user"
+update.the_new_password_has_been_sent_to_your_number,"The new password has been sent to your number"
+update.your_new_password,"Your new password"
+update.your_new_password_on_the_site,"Your new password on the :site"
+update.guest,Guest
+update.live_chat_widget,"Live chat widget"
+update.show_live_chat_widget,"Show live chat widget"
+update.show_live_chat_widget_hint,"Instructors and organizations can add JS code to load live a chat popup on the course page."
+update.java_script_code,"Java script code"
+update.admin_panel_url,"Admin panel URL"
+update.admin_panel_url_hint,"Use numbers and characters without spaces and special characters"
+update.upcoming_courses,"Upcoming Courses"
+update.my_upcoming_courses,"My upcoming courses"
+update.upcoming_courses_home_section_hint,"Courses that will be published soon"
+update.following_courses,"Following courses"
+update.new_upcoming_course,"New upcoming course"
+update.estimated_publish_date,"Estimated Publish Date"
+update.publish_date,"Publish Date"
+update.sections,Sections
+update.include_quizzes,"Includes Quizzes"
+update.overview,Overview
+update.total_courses,"Total Courses"
+update.released_courses,"Released Courses"
+update.not_released,"Not Released"
+update.release_date,"Release Date"
+update.followers,Followers
+update.followed_at,"Followed at"
+update.total_followers,"Total Followers"
+update.only_not_released_courses,"Only not released courses"
+update.you_not_have_any_upcoming_courses,"No upcoming courses"
+update.you_not_have_any_upcoming_courses_hint,"You do not have any upcoming courses..."
+update.create_a_upcoming_course,"Create an upcoming course"
+update.send_for_reviewer,"Send for reviewer"
+update.mark_as_released,"Mark as Released"
+update.view_followers,"View Followers"
+update.released,Released
+update.view_course,"View Course"
+update.are_following_this_upcoming_course,"are following this upcoming course"
+update.follow_course,"Follow Course"
+update.youll_get_notified_about_course_publish,"You'll get notified about course publish"
+update.this_course_includes,"This course includes"
+update.report_this_course,"Report this course"
+update.course_specifications,"Course specifications"
+update.course_description,"Course description"
+update.unfollow_course,"Unfollow Course"
+update.the_course_has_been_added_to_your_follow_list,"The course has been added to your follow list"
+update.the_course_has_been_removed_from_your_follow_list,"The course has been removed from your follow list"
+update.free_courses,"Free Courses"
+update.earliest_publish_date,"Earliest Publish Date"
+update.farthest_publish_date,"Farthest Publish Date"
+update.highest_price,"Highest Price"
+update.lowest_price,"Lowest Price"
+update.show_only_supported_courses,"Show only supported courses"
+update.show_only_quiz_included,"Show only quiz included"
+update.show_only_certificate_included,"Show only certificate included"
+update.course_published,"Course Published"
+update.this_course_was_published_already_and_you_can_check_the_main_course,"This course was published already and you can check the main course"
+update.installment,Installment
+update.installments,Installments
+update.new_plan,"New Plan"
+update.plans,Plans
+update.new_installment_plan,"New installment plan"
+update.edit_installment_plan,"Edit installment plan"
+update.main_title,"Main Title"
+update.banner,Banner
+update.add_option,"Add option"
+update.target_products,"Target Products"
+update.target_type,"Target Type"
+update.target_types,"Target Types"
+update.target_types_all,"All Types"
+update.target_types_courses,Courses
+update.target_types_store_products,"Store Products"
+update.target_types_bundles,Bundles
+update.target_types_meetings,Meetings
+update.target_types_registration_packages,"Registration Packages"
+update.target_types_subscription_packages,"Subscription Packages"
+update.target_types_recharge_wallet,"Recharge Wallet"
+update.select_target,"Select Target"
+update.all_courses,"All Courses"
+update.live_classes,"Live Classes"
+update.video_courses,"Video Courses"
+update.text_courses,"Text Courses"
+update.specific_courses,"Specific Courses"
+update.specific_sellers,"Specific Sellers"
+update.specific_products,"Specific Products"
+update.all_bundles,"All Bundles"
+update.specific_bundles,"Specific Bundles"
+update.all_meetings,"All Meetings"
+update.specific_categories,"Specific Categories"
+update.specific_instructors,"Specific Instructors"
+update.specific_packages,"Specific Packages"
+update.select_packages,"Select Packages"
+update.verification,Verification
+update.installment_verification_hint,"The user will be asked for verifying the installment purchase"
+update.verification_description,"Verification Description"
+update.verification_banner,"Verification Banner"
+update.verification_video,"Verification Video"
+update.request_uploads,"Request uploads"
+update.installment_request_uploads_hint,"Upload fields will be displayed to users for uploading documents"
+update.bypass_verification_for_verified_users,"Bypass verification for verified users"
+update.installment_bypass_verification_for_verified_users_hint,"The verification process will be ignored for customers who already verified"
+update.payment,Payment
+update.upfront,Upfront
+update.upfront_type,"Upfront Type"
+update.amount_type,"Amount Type"
+update.percent,Percent
+update.steps,Steps
+update.add_step,"Add Step"
+update.new_installments_were_successfully_created,"Installment created successfully"
+update.installment_were_successfully_updated,"Installment updated successfully"
+update.installment_were_successfully_deleted,"Installment deleted successfully"
+update.number_of_installments,"Number of Installments"
+update.amount_of_installments,"Amount of Installments"
+update.percent_capacity_reached,":percent% of capacity reached"
+update.total_payment,"Total Payment"
+update.pay_with_installments,"Pay in Installments"
+update.verify_your_installments,"Verify your installments"
+update.verify_your_installments_hint,"Your selected installment plan requires verification. You can verify your purchase using the following form..."
+update.verify_your_installments2,"Review and confirm installments"
+update.verify_your_installments2_hint,"Please check your selected installment plan details and confirm your selected plan and finalize your order..."
+update.installment_overview,"Installment Overview"
+update.days_duration,"Days Duration"
+update.verify_installments,"Verify Installments"
+update.attach_your_documents_and_send_them_to_admin,"Attach your documents and send them to admin"
+update.attach_a_file_optional,"Attach a file (Optional)"
+update.installment_terms_&_rules,"Installment Terms & Rules"
+update.important,Important
+update.by_purchasing_installment_plans_you_will_accept_installment_terms_and_rules,"By purchasing installment plans, you will accept installment terms and rules"
+update.submit_and_checkout,"Submit and checkout"
+update.submit_request,"Submit a request"
+update.percent_interest,":percent% Interest"
+update.no_upfront,"No upfront!"
+update.amount_upfront,":amount Upfront"
+update.amount_after_n_days,":amount after :days days :percent"
+update.installment_approval,"Installment Verification"
+update.enable_installments,"Enable Installments"
+update.installments_settings,"Installments Settings"
+update.installment_setting_active_hint,"Enable installments to allow customers purchase products using installments"
+update.disable_course_access_when_user_have_an_overdue_installment,"Disable course access when users have an overdue installment"
+update.disable_course_access_when_user_have_an_overdue_installment_hint,"Users won't have access to the product page when they have an overdue installment for it"
+update.disable_all_courses_access_when_user_have_an_overdue_installment,"Disable all courses access when users have an overdue installment"
+update.disable_all_courses_access_when_user_have_an_overdue_installment_hint,"Users won't have access to all products when having an overdue installment"
+update.overdue_interval_days,"Overdue interval days"
+update.overdue_interval_days_hint,"The customer will be allowed to pay for installments X days after the due date"
+update.disable_instalments_when_the_user_have_an_overdue_installment,"Disable installments when the user has an overdue installment"
+update.disable_instalments_when_the_user_have_an_overdue_installment_hint,"Installment plans won't be displayed for users who have overdue installments"
+update.allow_cancel_verification,"Allow cancel verification"
+update.allow_cancel_verification_hint,"Users can cancel the verification request after submission and the upfront will be refunded"
+update.display_installment_button,"Display installment button"
+update.display_installment_button_hint,"Installment button will be displayed on the product page in addition to installment plans"
+update.installment_plans_position,"Installment plans position"
+update.installment_plans_position_hint,"Display installments on the top or bottom of the page"
+update.reminder_before_overdue_days,"Installment Reminder Days (Before Due)"
+update.reminder_before_overdue_days_hint,"An installment reminder will be sent to the customer X days before the due date"
+update.reminder_after_overdue_days,"Installment Reminder Days (After Due)"
+update.reminder_after_overdue_days_hint,"An installment reminder will be sent to the customer X days after the due date"
+update.terms,Terms
+update.terms_&_policies,"Terms & Policies"
+update.top_of_page,"Top of the product page"
+update.bottom_of_page,"Bottom of the product page"
+update.select_an_installment_plan,"Select an installment plan"
+update.please_select_an_installment_plan_in_order_to_finalize_your_purchase,"Please select an installment plan in order to finalize your purchase"
+update.installment_plans,"Installment Plans"
+update.minimum_installment_amount,"Minimum installment amount"
+update.you_cannot_use_installment_plans,"You cannot use installment plans"
+update.proceed_to_checkout,"Proceed to checkout"
+update.finalize_request,"Finalize request"
+update.installment_request_submitted,"Installment Request Submitted"
+update.installment_request_submitted_hint,"We received your installment request and the process will be informed to you by email"
+update.installment_request_rejected,"Installment Request Rejected"
+update.installment_request_rejected_hint,"We reviewed your request and unfortunately we can not verify it."
+update.my_installments,"My Installments"
+update.back_to_installments,"Back to Installments"
+update.your_installment_purchase_has_been_successfully_completed,"Your installment purchase has been completed successfully."
+update.installment_upfront,"Installment Upfront"
+update.installment_not_capacity,"Capacity reached!"
+update.all_packages,"All Packages"
+update.cash,Cash
+update.registration_bonus,"Registration Bonus"
+update.bonus_history,"Bonus History"
+update.registration_bonus_settings,"Registration bonus settings"
+update.registration_bonus_setting_active_hint,"By activating this feature, registration bonus will be awarded for new users"
+update.registration_bonus_amount,"Registration bonus amount"
+update.registration_bonus_amount_hint,"This amount will be charged to the user balance after registration"
+update.unlock_registration_bonus_instantly,"Unlock registration bonus instantly"
+update.unlock_registration_bonus_instantly_hint,"Users can use the bonus instantly after registration and can make purchases"
+update.unlock_registration_bonus_with_referral,"Unlock registration bonus with referral"
+update.unlock_registration_bonus_with_referral_hint,"Users need to refer a specific number of users to unlock the bonus"
+update.number_of_referred_users,"Number of referred users"
+update.number_of_referred_users_hint,"How many users need to be referred to the platform to unlock the bonus"
+update.enable_referred_users_purchase,"Enable referred users purchase"
+update.enable_referred_users_purchase_hint,"Each referred user needs to purchase a specific amount to unlock the bonus"
+update.purchase_amount_for_unlocking_bonus,"Purchase amount for unlocking bonus"
+update.purchase_amount_for_unlocking_bonus_hint,"The amount that each referred user needs to make purchse on the platform to unlock the bonus"
+update.bonus_wallet,"Bonus wallet"
+update.bonus_wallet_hint,"The registration bonus will be charged to this wallet. The income wallet is withdrawable."
+update.income_wallet,"Income wallet"
+update.balance_wallet,"Balance wallet"
+update.achieved_users,"Achieved Users"
+update.unlocked_bonus_users,"Unlocked Bonus Users"
+update.total_bonus,"Total Bonus"
+update.unlocked_bonus,"Unlocked Bonus"
+update.registration_date_asc,"Registration Date – Ascending"
+update.registration_date_desc,"Registration Date – Descending"
+update.referred_users_asc,"Referred Users – Ascending"
+update.referred_users_desc,"Referred Users – Descending"
+update.bonus_asc,"Bonus – Ascending"
+update.bonus_desc,"Bonus – Descending"
+update.referred_purchases_asc,"Referred Users Purchases – Ascending"
+update.referred_purchases_desc,"Referred Users Purchases – Descending"
+update.bonus_status,"Bonus Status"
+update.locked,Locked
+update.unlocked,Unlocked
+update.user_id,"User ID"
+update.bonus,Bonus
+update.referred_users,"Referred Users"
+update.referred_purchases,"Referred Purchases"
+update.registration_date,"Registration Date"
+update.bonus_date,"Bonus Date"
+update.your_bonus_is_locked_To_unlock_the_bonus_please_check_the_following_statuses,"Your bonus is locked. To unlock the bonus, 
+ please check the following statuses"
+update.you_havent_referred_any_users,"You haven't referred any users"
+update.users_purchases,"Users purchases"
+update.you_havent_referred_any_users_to_purchase,"You haven't referred any users to purchase"
+update.how_to_get_bonus,"How to get bonus"
+update.referral_history,"Referral History"
+update.no_referred_users,"No Referred Users!"
+update.you_havent_referred_any_users_yet,"You haven't referred any users yet..."
+update.not_complete,"Not Complete"
+update.complete,Complete
+update.reached,Reached
+update.not_reached,"Not Reached"
+update.unlock_registration_bonus,"Unlock registration bonus"
+update.your_wallet_includes_amount_registration_bonus_This_amount_is_locked,"Your wallet includes :amount registration bonus. This amount is locked..."
+update.purchase_status,"Purchase Status"
+update.you_got_the_bonus,"You got the bonus!"
+update.your_registration_bonus_was_unlocked_on_date,"Your registration bonus was unlocked on :date..."
+update.you_referred_count_users_to_the_platform,"You referred :count users to the platform"
+update.count_users_achieved_purchase_target,":count users achieved purchase target"
+update.get_amount_from_registration_bonus,"Get amount from registration bonus"
+update.top_bottom_bar,"Top/Bottom Bar"
+update.fixed,"Sticky Mode"
+update.top_bottom_bar_fixed_hint,"The bar will be fixed when scrolling"
+update.icon,Icon
+update.background_image,"Background Image"
+update.title_color,"Title Color"
+update.description_color,"Description color"
+update.background_color,"Background color"
+update.btn_text,"Button Text"
+update.btn_url,"Button URL"
+update.btn_text_color,"Button Text Color"
+update.btn_color,"Button Color"
+update.bar_height,"Bar Height"
+update.bar_position,"Bar Position"
+update.top,"Top of the page"
+update.bottom,"Bottom of the page"
+update.enable,Enable
+update.floating_bar_successfully_updated,"Floating bar updated successfully"
+update.cashback,Cashback
+update.new_rule,"New Rule"
+update.rules,Rules
+update.transactions,Transactions
+update.history,History
+update.apply_cashback_per_item,"Apply cashback per item"
+update.apply_cashback_per_item_hint,"If several products include this rule, the cashback amount will be calculated for each product individually"
+update.new_cashback_rule_were_successfully_created,"New cashback rule was successfully created"
+update.cashback_rule_were_successfully_updated,"Cashback Rule were successfully updated"
+update.cashback_rule_were_successfully_deleted,"Cashback Rule was successfully deleted"
+update.edit_cashback_rule,"Edit cashback rule"
+update.cashback_rules,"Cashback Rules"
+update.total_rules,"Total Rules"
+update.active_rules,"Active Rules"
+update.disabled_rules,"Disabled Rules"
+update.cashback_active,"Enable Cashback"
+update.cashback_active_hint,"By enabling this feature, the cashback amount will be calculated according to cashback rules for customer purchases"
+update.display_cashback_notice_in_the_product_page,"Display notice in the product page"
+update.display_cashback_notice_in_the_product_page_hint,"A cashback notice will be displayed on the product page if the product includes a cashback plan"
+update.display_minimum_amount_cashback_notices,"Display notice for conditional cashback rules"
+update.display_minimum_amount_cashback_notices_hint,"A cashback notice will be displayed on the product page if the cashback rule includes a minimum purchase amount"
+update.get_cashback,"Get Cashback"
+update.by_purchasing_this_cart_you_will_get_amount_as_cashback,"By finalizing your order, you will get :amount as cashback."
+update.by_purchasing_this_product_you_will_get_amount_as_cashback,"By purchasing this product, you will get :amount as cashback."
+update.by_purchasing_this_product_you_will_get_amount_as_cashback_for_orders_more_than_min_amount,"By purchasing this product, you will get :amount as cashback for orders more than :min_amount."
+update.by_reserving_a_this_meeting_you_will_get_amount_as_cashback,"By reserving this meeting, you will get :amount as cashback."
+update.by_reserving_a_this_meeting_you_will_get_amount_as_cashback_for_orders_more_than_min_amount,"By reserving this meeting, you will get :amount as cashback for orders more than :min_amount."
+update.cashback_transactions,"Cashback Transactions"
+update.cashback_amount,"Cashback Amount"
+update.cashback_transaction_refunded_successful,"Cashback transaction refunded successfully"
+update.total_cashback,"Total Cashback"
+update.last_cashback,"Last Cashback"
+update.cashback_was_disabled_for_the_user,"Cashback disabled for this user successfully"
+update.disable_cashback,"Disable Cashback"
+update.enable_cashback,"Enable Cashback"
+update.min_purchase_amount,"Minimum Purchase Amount"
+update.min_cashback_amount,"Minimum Cashback Amount"
+update.purchase_amount_asc,"Purchase Amount - Ascending"
+update.purchase_amount_desc,"Purchase Amount - Descending"
+update.cashback_amount_asc,"Cashback Amount - Ascending"
+update.cashback_amount_desc,"Cashback Amount - Descending"
+update.last_cashback_asc,"Last Cashback - Ascending"
+update.last_cashback_desc,"Last Cashback - Descending"
+update.purchases,Purchases
+update.installments_count,"Installments Count"
+update.installments_amount,"Installments Amount"
+update.overdue,Overdue
+update.overdue_amount,"Overdue Amount"
+update.overdue_installments,"Overdue Installments"
+update.overdue_date,"Due Date"
+update.overdue_history,"Overdue History"
+update.pending_verification,"Pending Verification"
+update.first_unpaid_installment_date,"First Overdue Inst. Date"
+update.days_left,"Remaining Days"
+update.show_details,"Show Details"
+update.order_status_changes_to_canceled,"Order canceled successfully"
+update.order_status_changes_to_approved,"Order approved successfully"
+update.order_status_changes_to_rejected,"Order rejected successfully"
+update.refunded,Refunded
+update.installment_refund,"Refund Installment"
+update.installment_refunded_successful,"The installment refunded successfully"
+update.paid_date,"Payment Date"
+update.late_days,"Delay (Days)"
+update.unpaid,Unpaid
+update.verification_requests,"Verification Requests"
+update.request_date,"Requests Date"
+update.verified_users,"Verified Users"
+update.installment_was_disabled_for_the_user,"Installment was disabled for the user"
+update.total_purchases,"Total Purchase"
+update.total_installments,"Total Installments"
+update.unverifiable,Unverifiable
+update.you_have_count_overdue_installments_please_pay_them_to_avoid_restrictions_and_negative_effects_on_your_account,"You have :count overdue installments. Please pay them to avoid restrictions and negative effects on your account."
+update.installments_overview,"Installments Overview"
+update.open_installments,"Open Installments"
+update.finished_installments,"Finished Installments"
+update.you_not_have_any_installment,"No installments!"
+update.you_not_have_any_installment_hint,"You do not have any Installment purchases..."
+update.vew_details,"View Details"
+update.refund,Refund
+update.pay_upcoming_part,"Pay Upcoming Part"
+update.item_type_course,Course
+update.item_type_bundle,Bundle
+update.item_type_product,Product
+update.item_type_subscribe,Subscribe
+update.item_type_registrationPackage,"Registration Package"
+update.total_parts_count,":count Parts"
+update.total_parts,"Total Parts"
+update.item_type,"Item Type"
+update.remained_installments,"Remained Installments"
+update.upcoming_installment,"Upcoming Installments"
+update.remained_parts,"Remained Parts"
+update.remained_amount,"Remained Amount"
+update.installments_list,"Installments List"
+update.view_details,"View Details"
+update.n_days_after_purchase,":days Days after purchase"
+update.due_date,"Due Date"
+update.payment_date,"Payment Date"
+update.currency_separator,"Currency Separator"
+update.default_currency,"Default Currency"
+update.class_dev,Class
+update.currency_separator_dot,Dot
+update.currency_separator_comma,Comma
+update.currency_decimal,"Currency Decimal"
+update.multi_currency,Multi-Currency
+update.enable_multi_currency,"Enable Multi-Currency"
+update.supported_currencies,"Supported Currencies"
+update.add_currency,"Add Currency"
+update.currencies,Currencies
+update.exchange_rate,"Exchange Rate"
+update.insert_the_selected_currency_exchange_rate_to_the_default_currency,"Insert the selected currency exchange rate to the default currency (:sign)"
+update.currency,Currency
+update.disabled_payment_gateways,"Disabled payment gateways"
+update.disabled_payment_gateways_hint,"You can not process your payment using the following gateways because they don't support your selected currency. Please change the currency if you want to make payments using them."
+update.access_denied,"Access Denied!"
+update.you_have_an_overdue_installment_please_pay_it_to_access_this_course,"You have an overdue installment. Please pay it to access this course!"
+update.view_installments,"View Installments"
+update.session_api,"Live class service providers"
+update.session_api_local,"Custom (Local)"
+update.session_api_big_blue_button,BigBlueButton
+update.session_api_zoom,Zoom
+update.session_api_agora,Agora
+update.session_api_jitsi,Jitsi
+update.session_api_google_meet,"Google Meet"
+update.available_session_apis,"Select available providers"
+update.jitsi_live_class,"Jitsi Live Class"
+update.update_app_card_title,"Update App"
+update.update_app_card_hint,"Update your platform to the latest version easily"
+update.update_app_hint_title_1,"Core Update"
+update.update_app_hint_description_1,"Please read update instructions carefully and make backup from your files like language files, CSS files, etc before updating."
+update.update_app_hint_title_2,"Database Update"
+update.update_app_hint_description_2,"Your database will be updated to the latest version if any changes are available. Database changes are not available in all updates."
+update.update_app,"Update App"
+update.basic_update_zip_file,"Update with Zip file"
+update.basic_update_zip_file_hint,"Use it if you want to update your platform version."
+update.app_updated_successful,"The app successfully updated!"
+update.app_updated_successful_json,"The file installed successfully!"
+update.update_with_json,"Update with JSON"
+update.update_with_json_hint,"Use it if you want to replace several files like bug fixes"
+update.upload_sources,"Upload Sources"
+update.bunny_stream_settings,"Bunny Streaming Settings"
+update.secure_host,"Secure Storage"
+update.library_id,"Library ID"
+update.access_key,"API Key"
+update.hostname,Hostname
+update.mark_all_notifications_as_read,"Mark all notifications as read"
+update.convert_unread_messages_to_read,"Convert unread messages to read"
+update.yes_convert,"Yes; Mark all as read!"
+update.all_your_notifications_have_been_marked_as_read,"All your notifications have been marked as read"
+update.courses,Courses
+update.subscription_packages,"Subscription Packages"
+update.search_and_select_class,"Search and Select Class"
+update.search_and_select_bundle,"Search and Select Bundle"
+update.search_and_select_product,"Search and Select Product"
+update.select_subscribe,"Select subscribe"
+update.select_registration_package,"Select Registration Package"
+update.select_type,"Select Type"
+update.percent_off,":percent% Off"
+update.select_the_role_during_registration,"User Role Selection"
+update.role_user,Student
+update.role_teacher,Instructor
+update.role_organization,Organization
+update.select_roles,"Select Roles"
+update.zoom_api_key,"Zoom Api Key"
+update.zoom_api_key_hint,"How to get Zoom Api Key"
+update.zoom_api_secret,"Zoom API secret"
+update.zoom_api_secret_hint,"How to get zoom API Secret"
+update.zoom_error_msg,"There was an error creating a meeting in Zoom. Please check your account."
+update.enable_statistics,"Enable Statistics"
+update.display_default_statistics,"Display default statistics"
+update.add_statistics,"Add Statistics"
+update.maintenance,Maintenance
+update.maintenance_settings_image_placeholder,"Displays on browser (565*530px)"
+update.maintenance_status,"Maintenance Status"
+update.maintenance_status_hint,"Enable the maintenance or coming soon mode on your website"
+update.button_title,"Button Title"
+update.button_link,"Button Link"
+update.maintenance_access_key,"Maintenance access key"
+update.maintenance_access_key_hint,"You can access the website front using this key. If you set (key) for this input, you can access the website at https://yourwebsite.com?key=1"
+update.enable_waitlist,"Enable Waitlist"
+update.waitlist_status_hint,"By enabling waitlist, you can enable waitlist for each course and allow users to join the waitlist when the course is not available"
+update.waitlists,Waitlists
+update.registered_members,"Registered Members"
+update.clear_list,"Clear List"
+update.view_list,"View List"
+update.export_list,"Export List"
+update.disable_waitlist,"Disable Waitlist"
+update.waitlist_cleared_successful,"Waitlist cleared successfully"
+update.waitlist_disabled_successful,"Waitlist disabled successfully"
+update.waitlist_item_deleted_successful,"Waitlist item deleted successfully"
+update.join_waitlist,"Join Waitlist"
+update.join_course_waitlist,"Join course waitlist"
+update.join_course_waitlist_modal_hint,"By joining the waitlist, You will get announcements about the course date, contents, etc."
+update.course_added_to_waitlists_successful,"You submitted to the course waitlist successfully."
+update.registration_status,"Registration Status"
+update.registered,Registered
+update.unregistered,Unregistered
+update.submission_date,"Submission Date"
+update.direct_publication_options,"Content auto approval"
+update.direct_publication_of_courses,"Courses auto approval"
+update.direct_publication_of_courses_hint,"Courses will be published without admin approval"
+update.direct_publication_of_comments,"Comments auto approval"
+update.direct_publication_of_comments_hint,"Comments will be published without admin approval"
+update.direct_publication_of_reviews,"Reviews auto approval"
+update.direct_publication_of_reviews_hint,"Reviews will be published without admin approval"
+update.direct_publication_of_blog,"Blog articles auto approval"
+update.direct_publication_of_blog_hint,"Blog articles will be published without admin approval"
+update.publish,Publish
+update.offline_banks,"Offline banks"
+update.offline_banks_status,"Enable offline payment"
+update.offline_banks_credits,"Offline payment accounts"
+update.add_bank,"Add Account"
+update.add_specification,"Add Specification"
+update.user_banks,"Payout Accounts"
+update.user_banks_credits,"User payout accounts"
+update.database,Database
+update.run_update,"Run Update"
+update.database_update_hint,"Your database will be updated to the latest version if changes are available."
+update.gift,Gift
+update.gifts,Gifts
+update.gifts_history,"Gifts History"
+update.gifts_settings,"Gifts Settings"
+update.gifts_setting_active_hint,"Allow users to send products and courses as a gift"
+update.allow_sending_gift_for_courses,"Enable gift courses"
+update.allow_sending_gift_for_courses_hint,"Allow users to send courses as a gift"
+update.allow_sending_gift_for_bundles,"Enable gift bundles"
+update.allow_sending_gift_for_bundles_hint,"Allow users to send bundles as a gift"
+update.allow_sending_gift_for_products,"Enable gift products"
+update.allow_sending_gift_for_products_hint,"Allow users to send store virtual products as a gift"
+update.gift_this_course,"Gift this course"
+update.gift_this_course_hint,"Send this course as a gift to your friends"
+update.gift_this_bundle,"Gift this bundle"
+update.gift_this_bundle_hint,"Send this bundle as a gift to your friends"
+update.gift_this_product,"Gift this product"
+update.gift_this_product_hint,"Send this product as a gift to your friends"
+update.send_course_as_a_gift,"Send course as a gift"
+update.send_bundle_as_a_gift,"Send bundle as a gift"
+update.send_product_as_a_gift,"Send product as a gift"
+update.send_this_course_to_your_friends_and_let_them_enjoy_effective_learning,"Send this course to your friends and let them enjoy effective learning!"
+update.send_this_bundle_to_your_friends_and_let_them_enjoy_effective_learning,"Send this bundle to your friends and let them enjoy effective learning!"
+update.send_this_product_to_your_friends_and_let_them_enjoy_effective_learning,"Send this product to your friends and let them enjoy effective learning!"
+update.recipient_information,"Recipient Information"
+update.gift_date,"Gift Date"
+update.message_to_recipient_(optional),"Message to Recipient (Optional)"
+update.this_course_was_sent_to_email_as_a_gift,"This course was sent to :email as a gift."
+update.this_bundle_was_sent_to_email_as_a_gift,"This bundle was sent to :email as a gift."
+update.this_product_was_sent_to_email_as_a_gift,"This product was sent to :email as a gift."
+update.a_gift_for_name_on_date,"A gift for <b>:name</b> on <b>:date</b>"
+update.a_gift_for_name_on_date_without_bold,"A gift for :name on :date"
+update.total_gifts,"Total Gifts"
+update.total_gift_amount,"Total Gift Amount"
+update.total_senders,"Total Senders"
+update.total_receipts,"Total Recipients"
+update.amount_asc,"Amount – Ascending"
+update.amount_desc,"Amount - Descending"
+update.submit_date_asc,"Submission Date – Ascending"
+update.submit_date_desc,"Submission Date – Descending"
+update.receive_date_asc,"Receive Date – Ascending"
+update.receive_date_desc,"Receive Date - Descending"
+update.receipt_status,"Recipient Status"
+update.gift_status,"Gift Status"
+update.sent,Sent
+update.receipt,Recipient
+update.gift_message,"Gift Message"
+update.submit_date,"Submission Date"
+update.receive_date,"Receive Date"
+update.instantly,Instantly
+update.the_gift_was_successfully_canceled,"The gift canceled successfully"
+update.a_notification_has_been_sent_to_the_recipient_of_the_gift,"A notification has been sent to the recipient of the gift."
+update.you_got_a_gift_course,"You got a gift course!"
+update.you_got_a_gift_bundle,"You got a gift bundle!"
+update.you_got_a_gift_product,"You got a gift product!"
+update.user_send_item_to_you_as_a_gift,":user send "":item_title"" to you as a gift."
+update.view_gift,"View Gift"
+update.platform_phone_and_email_position,"Platform phone and email position"
+update.select_position,"Select Position"
+update.header,Header
+update.footer,Footer
+update.platform_copyright_hint,"All rights are reserved for learning management system platform"
+update.upcoming_sections_hint,"How many sections or chapters are included?"
+update.upcoming_parts_hint,"How many parts are included?"
+update.upcoming_progress_hint,"If you fill it, a progress will be displayed on the course page"
+update.progress_placeholder,"Number only between 0 to 100"
+update.certificate_included,"Includes Certificate"
+update.upcoming_certificate_hint,"Turn it on if your course includes a completion or quiz certificate"
+update.installment_title_hint,"This title will be displayed on the admin side for management purposes"
+update.installment_main_title_hint,"The main title will be displayed on the installment card on user side"
+update.installment_description_hint,"Keep it short for about a single line"
+update.installment_banner_hint,"This banner will be displayed on the installment card. 450x100px suggested"
+update.installment_options_hint,"Options will be displayed on the installment card as checked items for describing plan features"
+update.installment_capacity_hint,"By defining capacity, a limited number of users can purchase the product using this installment plan"
+update.installment_user_group_hint,"By defining user groups, the installment plan will be displayed to users that are in the selected user groups"
+update.installment_start_date_hint,"The installment plan will be available from the start date"
+update.installment_end_date_hint,"The installment plan will be disabled until the end date"
+update.installment_verification_description_hint,"Describe your verification requirements, process, and anything that can help users"
+update.installment_verification_banner_hint,"Define an image to explain the verification process to users (Optional)"
+update.installment_verification_video_hint,"Upload a video to explain the verification process to users (Optional)"
+update.payment_steps,"Payment Steps"
+update.payment_steps_hint_title,"Defining Payment Steps"
+update.payment_steps_hint_description,"If you are going to create a plan for several products, please define payment steps and upfront with percentages to avoid conflicts. If you want to consider interest for the plan, you need to define more payment steps."
+update.payment_deadline_hint_title,"Payment Deadline"
+update.payment_deadline_hint_description,"The payment deadline for different payment steps will be calculated according to the customer purchase date. It means if you want to define 2 monthly payment steps, you need to consider 30 days for the first steps and 60 days for the second one."
+update.upfront_hint_title,"Upfront Amount"
+update.upfront_hint_description,"The upfront should be paid by the customer instantly to submit the installment request. If you disable verification, the user will have access to the product after paying upfront amount."
+update.installment_purchases,"Installment Purchases"
+update.cashback_users_hint,"By defining users, the cashback rule will be applied only for these users"
+update.cashback_user_groups_hint,"By defining user groups, the cashback rule will be applied for users that are in the selected user groups"
+update.cashback_start_date_hint,"The cashback rule will be applied from the start date"
+update.cashback_end_date_hint,"The cashback rule will be applied until the end date"
+update.cashback_max_amount_hint,"The maximum cashback amount that will be calculated for the user for percentage mode"
+update.cashback_min_amount_hint,"The cashback rule will be applied when the purchase amount is more than the minimum amount"
+update.cashback_transactions_history,"Cashback History"
+update.message,Message
+update.agora_meeting_hint,"Users can conduct meetings on the platform directly"
+update.session_api_hint,"Selected live class providers will be displayed for users in the course creation wizard"
+update.upload_sources_hint,"Selected upload sources will be displayed for users in the course creation wizard"
+update.select_rules_hint,"The user will be able to select the role in the registration form from the following roles"
+update.file_source_secure_host,"Secure Host"
+update.update_core,"Update Core"
+update.update_database,"Update Database"
+update.update,Update
+update.this_product_requires_n_points,"This product requires&nbsp;<span>:points</span>&nbsp;points."
+update.you_have_no_enough_points_for_this_product,"You don\'t have enough points for this product..."
+update.can_not_buy_this_product_with_point,"You can\'t buy this product with points"
+update.success_pay_product_with_point_msg,"Product paid successfully with points"
+update.this_course_has_active_special_offer,"This course has an activated special offer"
+update.discount_source_bundle,Bundle
+update.your_coupon_is_valid_for_another_bundle,"Your coupon is not valid for this bundle"
+update.your_coupon_is_valid_for_another_products_type,"Your coupon is not valid for this product type"
+update.bundle_purchased,"Bundle purchased"
+update.subscribe_expired,"Subscription Plan Expired"
+update.saved_successfully,"Saved successfully"
+update.direct_payment_button_settings,"Buy Now Button Settings"
+update.direct_bundles_payment_button_status_hint,"By enabling this option, a Buy Now button will be added to the bundle page and users will be redirected to the checkout page directly."
+update.direct_products_payment_button_status_hint,"By enabling this option, a Buy Now button will be added to the store products page and users will be redirected to the checkout page directly."
+update.items_deleted_successful,"Items deleted successfully"
+update.upcoming_course,"Upcoming Course"
+update.enable_upcoming_courses,"Enable upcoming courses"
+update.upcoming_courses_status_hint,"By enabling this option, instructors can submit their upcoming courses."
+update.installment_payment,"Installment payment"
+update.enable_registration_bonus,"Enable registration bonus"
+update.user_registration_bonus_amount_placeholder,"Registration bonus amount for user"
+update.no_result_following_course,"You don\'t have any following course"
+update.no_result_following_course_hint,"You can add a live class to your favorites"
+update.login_failed,"Login failed!"
+update.device_limit_reached_please_try_again,"Device limit reached. Please try again..."
+update.saas_package_condition_hint,"Leave it blank for unlimited and fill with zero (0) if you want to disable this parameter"
+update.lock,Lock
+update.unlock,Unlock
+update.select_user_role,"Select user role"
+update.disable_registration_bonus,"Disable registration bonus"
+update.registration_bonus_was_disabled_for_the_user,"Registration bonus was disabled for the user"
+update.unpublish,Unpublish
+update.successful,Successful
+update.course_followers,"Course followers"
+update.send_a_notification,"Send a notification"
+update.upcoming_course_send_a_notification_hint,"After publishing the course, all of the course followers will receive a notifications and you will get your first sales!"
+update.published_upcoming_course_send_a_notification_hint,"Since you already published this course, a notification sent to followers about the course publishing."
+update.notify_followers,"Notify followers"
+update.send_a_notifications_to_all_followers_and_let_them_know_course_publishing,"Send a notifications to all followers and let them know course publishing"
+update.assign_a_course,"Assign a Course"
+update.no_followers,"No Followers!"
+update.this_course_doesnt_have_any_followers,"This course doesn\'t have any followers..."
+update.assign_published_course,"Assign published course"
+update.assign_published_course_successful,"Assign published course successful"
+update.select_a_course,"Select a course"
+update.his_course_already_published,"This course already published"
+update.cant_follow_your_upcoming_course,"Cant follow your upcoming course"
+update.expired_quiz,"Expired Quiz!"
+update.expired_quiz_hint,"Unfortunately, you can not take this quiz because it is expired"
+update.expired_quiz_hint_with_date,"Unfortunately, you can not take this quiz because it is expired on “:date”"
+update.the_quiz_will_expire_on_date,"The quiz will expire on :date"
+update.category_successfully_deleted,"Category successfully deleted"
+update.sub_category_successfully_deleted,"Sub category successfully deleted"
+update.installment_verification,"Installment verification"
+update.verification_request_details,"Verification request details"
+update.user_uploaded_files,"User uploaded files"
+update.no_uploaded_files,"No uploaded files"
+update.no_uploaded_files_hint,"The user hasn\'t uploaded any files..."
+update.file_not_found,"File not found!"
+update.the_address_entered_for_the_file_is_invalid_or_the_file_has_been_deleted,"The address entered for the file is invalid or the file has been deleted."
+update.target,Target
+update.public_courses,"Public Courses"
+update.courses_private,"Private Courses"
+update.payout_request_registered_successful_hint,"Your payout request has been submitted. Please wait for admin approval."
+update.payout_details,"Payout details"
+update.basic_update_confirm,"I confirm that read all update instructions carefully."
+update.custom_json_update_confirm,"I confirm that read all update instructions carefully."
+update.database_update_confirm,"I confirm that read all update instructions carefully."
+update.deleted_seller,"Deleted seller"
+update.end_share_screen,"End share screen"
+update.course_certificate,"Course certificate"
+update.not_achieve,"Not Achieved!"
+update.success_pay_msg_for_free_promotion,"The promotion activated for you."
+update.success_pay_msg_for_free_subscribe,"The subscription plan activated for you."
+update.sales_count,Sales
+update.installment_plan,"Installment Plan"
+update.token_authentication_key,"Token Authentication Key"
+update.gift_receive_date,"Received Date"
+update.gift_sender,"Gift Sender"
+update.cashback_users,"Cashback Users"
+validation.accepted,"The :attribute must be accepted."
+validation.active_url,"The :attribute is not a valid URL."
+validation.after,"The :attribute must be a date after :date."
+validation.after_or_equal,"The :attribute must be a date after or equal to :date."
+validation.alpha,"The :attribute may only contain letters."
+validation.alpha_dash,"The :attribute may only contain letters, numbers, dashes and underscores."
+validation.alpha_num,"The :attribute may only contain letters and numbers."
+validation.array,"The :attribute must be an array."
+validation.before,"The :attribute must be a date before :date."
+validation.before_or_equal,"The :attribute must be a date before or equal to :date."
+validation.between.numeric,"The :attribute must be between :min and :max."
+validation.between.file,"The :attribute must be between :min and :max kilobytes."
+validation.between.string,"The :attribute must be between :min and :max characters."
+validation.between.array,"The :attribute must have between :min and :max items."
+validation.boolean,"The :attribute field must be true or false."
+validation.confirmed,"The :attribute confirmation does not match."
+validation.date,"The :attribute is not a valid date."
+validation.date_equals,"The :attribute must be a date equal to :date."
+validation.date_format,"The :attribute does not match the format :format."
+validation.different,"The :attribute and :other must be different."
+validation.digits,"The :attribute must be :digits digits."
+validation.digits_between,"The :attribute must be between :min and :max digits."
+validation.dimensions,"The :attribute has invalid image dimensions."
+validation.distinct,"The :attribute field has a duplicate value."
+validation.email,"The :attribute must be a valid email address."
+validation.ends_with,"The :attribute must end with one of the following: :values."
+validation.exists,"The selected :attribute is invalid."
+validation.file,"The :attribute must be a file."
+validation.filled,"The :attribute field must have a value."
+validation.gt.numeric,"The :attribute must be greater than :value."
+validation.gt.file,"The :attribute must be greater than :value kilobytes."
+validation.gt.string,"The :attribute must be greater than :value characters."
+validation.gt.array,"The :attribute must have more than :value items."
+validation.gte.numeric,"The :attribute must be greater than or equal :value."
+validation.gte.file,"The :attribute must be greater than or equal :value kilobytes."
+validation.gte.string,"The :attribute must be greater than or equal :value characters."
+validation.gte.array,"The :attribute must have :value items or more."
+validation.image,"The :attribute must be an image."
+validation.in,"The selected :attribute is invalid."
+validation.in_array,"The :attribute field does not exist in :other."
+validation.integer,"The :attribute must be an integer."
+validation.ip,"The :attribute must be a valid IP address."
+validation.ipv4,"The :attribute must be a valid IPv4 address."
+validation.ipv6,"The :attribute must be a valid IPv6 address."
+validation.json,"The :attribute must be a valid JSON string."
+validation.lt.numeric,"The :attribute must be less than :value."
+validation.lt.file,"The :attribute must be less than :value kilobytes."
+validation.lt.string,"The :attribute must be less than :value characters."
+validation.lt.array,"The :attribute must have less than :value items."
+validation.lte.numeric,"The :attribute must be less than or equal :value."
+validation.lte.file,"The :attribute must be less than or equal :value kilobytes."
+validation.lte.string,"The :attribute must be less than or equal :value characters."
+validation.lte.array,"The :attribute must not have more than :value items."
+validation.max.numeric,"The :attribute may not be greater than :max."
+validation.max.file,"The :attribute may not be greater than :max kilobytes."
+validation.max.string,"The :attribute may not be greater than :max characters."
+validation.max.array,"The :attribute may not have more than :max items."
+validation.mimes,"The :attribute must be a file of type: :values."
+validation.mimetypes,"The :attribute must be a file of type: :values."
+validation.min.numeric,"The :attribute must be at least :min."
+validation.min.file,"The :attribute must be at least :min kilobytes."
+validation.min.string,"The :attribute must be at least :min characters."
+validation.min.array,"The :attribute must have at least :min items."
+validation.not_in,"The selected :attribute is invalid."
+validation.not_regex,"The :attribute format is invalid."
+validation.numeric,"The :attribute must be a number."
+validation.password,"The password is incorrect."
+validation.password_or_username,"The password or username is incorrect."
+validation.present,"The :attribute field must be present."
+validation.regex,"The :attribute format is invalid."
+validation.required,"The :attribute field is required."
+validation.required_if,"The :attribute field is required when :other is :value."
+validation.required_unless,"The :attribute field is required unless :other is in :values."
+validation.required_with,"The :attribute field is required when :values is present."
+validation.required_with_all,"The :attribute field is required when :values are present."
+validation.required_without,"The :attribute field is required when :values is not present."
+validation.required_without_all,"The :attribute field is required when none of :values are present."
+validation.same,"The :attribute and :other must match."
+validation.size.numeric,"The :attribute must be :size."
+validation.size.file,"The :attribute must be :size kilobytes."
+validation.size.string,"The :attribute must be :size characters."
+validation.size.array,"The :attribute must contain :size items."
+validation.starts_with,"The :attribute must start with one of the following: :values."
+validation.string,"The :attribute must be a string."
+validation.timezone,"The :attribute must be a valid zone."
+validation.unique,"The :attribute has already been taken."
+validation.uploaded,"The :attribute failed to upload."
+validation.url,"The :attribute format is invalid."
+validation.uuid,"The :attribute must be a valid UUID."
+validation.custom.attribute-name.rule-name,custom-message
+validation.captcha,"Incorrect captcha..."
+validation.attributes,Array

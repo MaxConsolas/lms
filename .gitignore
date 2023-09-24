@@ -1,0 +1,29 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.phpunit.result.cache
+.phpstan.neon
+phpstan.log
+phpstan.report.csv
+routes.php
+server.php
+
+# Composer
+composer.lock
+composer.json
+
+# Laravel framework
+bootstrap/*
+app/Http/Controllers/Controller.php
+artisan
+
+# Code quality reports
+coverage
+.nyc_output
+
+# IDE
+.idea
+.vscode
