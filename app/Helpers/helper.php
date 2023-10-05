@@ -1635,13 +1635,13 @@ function getDefaultLocale()
         return $value;
     });
 
-    $siteLanguage = 'EN';
+    $siteLanguage = 'RU';
 
-    if (!empty($setting)) {
-        if (!empty($setting[$key])) {
-            $siteLanguage = $setting[$key];
-        }
-    }
+    // if (!empty($setting)) {
+    //     if (!empty($setting[$key])) {
+    //         $siteLanguage = $setting[$key];
+    //     }
+    // }
 
     return $siteLanguage;
 }
