@@ -958,7 +958,7 @@ return [
 
     //Классы
 
-    'webinars_list_page_title' => 'Список живых занятий',,
+    'webinars_list_page_title' => 'Список живых занятий',
     'webinars' => 'Живые занятия',
     'live_class' => 'Живой класс',
     'live_classes' => 'Живые классы',
