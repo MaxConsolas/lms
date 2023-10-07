@@ -8,17 +8,18 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'blog' => 'Blog',
-    'blog_categories' => 'Blog Categories',
-    'create_category' => 'New Blog Category',
-    'page_lists_lead' => 'List of blog posts. You can edit or delete any row.',
-    'comments_lists_lead' => 'List of blog comments. You can edit or delete any row.',
-    'comments_reports_lists_lead' => 'List of comments reports. You can edit or delete any row.',
-    'author' => 'Author',
-    'create_blog' => 'New Blog Post',
-    'new_post' => 'New Blog Post',
-    'edit_blog' => 'Edit Blog Post',
-    'comments_section' => 'Enable Comments',
-    'meta_description' => 'SEO Meta Description',
-    'meta_description_placeholder' => '155~160 Characters.',
-];
+    'blog' => 'Блог',
+    'blog_categories' => 'Категории блога',
+    'create_category' => 'Новая категория блога',
+    'page_lists_lead' => 'Список сообщений в блоге. Вы можете редактировать или удалять любую строку.',
+    'comments_lists_lead' => 'Список комментариев блога. Вы можете редактировать или удалять любую строку.',
+    'comments_reports_lists_lead' => 'Список отчетов по комментариям. Вы можете редактировать или удалять любую строку.',
+    'author' => 'Автор',
+    'create_blog' => 'Новая запись в блоге',
+    'new_post' => 'Новая запись в блоге',
+    'edit_blog' => 'Редактировать сообщение в блоге',
+    'comments_section' => 'Включить комментарии',
+    'meta_description' => 'Метаописание SEO',
+    'meta_description_placeholder' => '155~160 символов.',
+    ];
+    

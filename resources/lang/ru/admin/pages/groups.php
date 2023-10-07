@@ -2,31 +2,31 @@
 
 return [
 
-    /*
-    |--------------------------------------------------------------------------
-    | Admin Categories Translation
-    |--------------------------------------------------------------------------
-    */
+/*
+|----------------------------------------------------------------- -------------------------
+| Категории администратора Перевод
+|----------------------------------------------------------------- -------------------------
+*/
 
-    'group_list_page_title' => 'User Groups List',
-    'edit_page_title' => 'Edit user group',
-    'group' => 'Group',
-    'title' => 'Title',
-    'tags_count' => 'Tags count',
-    'new_page_lead' => 'You can create a new group.',
-    'parent_name' => 'Parent Name',
-    'select_parent_name' => 'choose parent name',
-    'group_count' => 'Categories count',
-    'page_lists_lead' => 'List of group. You can edit or delete any row.',
-    'sub_group' => 'Sub group',
-    'has_sub_group' => 'Has sub group',
-    'add_sub_group' => 'Add sub group',
-    'add' => 'Add',
-    'remove' => 'Remove',
+    'group_list_page_title' => 'Список групп пользователей',
+    'edit_page_title' => 'Редактировать группу пользователей',
+    'group' => 'Группа',
+    'title' => 'Название',
+    'tags_count' => 'Количество тегов',
+    'new_page_lead' => 'Вы можете создать новую группу.',
+    'parent_name' => 'Родительское имя',
+    'select_parent_name' => 'выбрать имя родителя',
+    'group_count' => 'Количество категорий',
+    'page_lists_lead' => 'Список группы. Вы можете редактировать или удалять любую строку.',
+    'sub_group' => 'Подгруппа',
+    'has_sub_group' => 'Есть подгруппа',
+    'add_sub_group' => 'Добавить подгруппу',
+    'add' => 'Добавить',
+    'remove' => 'Удалить',
 
-    'admin_group' => 'Groups',
-    'admin_group_list' => 'Groups List',
-    'admin_group_create' => 'Groups Create',
-    'admin_group_edit' => 'Groups Edit',
-    'admin_group_delete' => 'Groups Delete',
+    'admin_group' => 'Группы',
+    'admin_group_list' => 'Список групп',
+    'admin_group_create' => 'Создать группы',
+    'admin_group_edit' => 'Редактирование групп',
+    'admin_group_delete' => 'Удалить группы',
 ];

@@ -8,6 +8,6 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'dashboard' => 'Dashboard',
-    'admin_dashboard_show' => 'Dashboard Show',
+    'dashboard' => 'Панель управления',
+    'admin_dashboard_show' => 'Показать панель мониторинга',
 ];

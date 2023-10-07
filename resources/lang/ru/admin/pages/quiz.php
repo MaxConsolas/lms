@@ -2,48 +2,48 @@
 
 return [
 
-    /*
-    |--------------------------------------------------------------------------
-    | Admin Webinars Translation
-    |--------------------------------------------------------------------------
-    */
+/*
+|----------------------------------------------------------------- -------------------------
+| Перевод вебинаров администратора
+|----------------------------------------------------------------- -------------------------
+*/
 
-    'quizzes' => 'Quizzes',
-    'page_lists_lead' => 'List of quizzes. You can edit or delete any row.',
-    'page_results_lead' => 'See quiz results',
-    'title' => 'Title',
-    'instructors' => 'Instructors',
-    'instructor' => 'Instructor',
-    'quizzes_list' => 'Quizzes lists',
-    'quiz_results' => 'Quizzes results',
-    'question_count' => 'Question count',
-    'students_count' => 'Students count',
-    'average_grade' => 'Average grade',
-    'grades' => 'Grades',
-    'grade_date' => 'Grades Date',
-    'certificate' => 'Certificate',
+    'quizzes' => 'Викторины',
+    'page_lists_lead' => 'Список викторин. Вы можете редактировать или удалять любую строку.',
+    'page_results_lead' => 'Посмотреть результаты теста',
+    'title' => 'Название',
+    'instructors' => 'Инструкторы',
+    'instructor' => 'Инструктор',
+    'quizzes_list' => 'Списки викторин',
+    'quiz_results' => 'Результаты викторин',
+    'question_count' => 'Количество вопросов',
+    'students_count' => 'Количество студентов',
+    'average_grade' => 'Средняя оценка',
+    'grades' => 'Оценки',
+    'grade_date' => 'Дата оценки',
+    'certificate' => 'Сертификат',
 
-    'passed' => 'Passed',
+    'passed' => 'Пройдено',
 
-    'certificates' => 'Certificates',
-    'certificates_templates' => 'Certificates Templates',
-    'certificates_lists_lead' => 'See the list of downloaded certificates. you can also download',
-    'certificates_templates_lists_lead' => 'See the list of certificates template',
-    'templates' => 'Templates',
-    'new_template' => 'New template',
+    'certificates' => 'Сертификаты',
+    'certificates_templates' => 'Шаблоны сертификатов',
+    'certificates_lists_lead' => 'Просмотреть список загруженных сертификатов. вы также можете скачать',
+    'certificates_templates_lists_lead' => 'Посмотреть список шаблонов сертификатов',
+    'templates' => 'Шаблоны',
+    'new_template' => 'Новый шаблон',
 
-    'template_image' => 'Template image',
+    'template_image' => 'Изображение шаблона',
 
-    'position_x' => 'Position x',
-    'position_y' => 'Position y',
-    'font_size' => 'Font size',
-    'text_color' => 'Text color',
-    'message_body' => 'Message body',
-    'preview_certificate' => 'Preview certificate',
+    'position_x' => 'Позиция x',
+    'position_y' => 'Позиция y',
+    'font_size' => 'Размер шрифта',
+    'text_color' => 'Цвет текста',
+    'message_body' => 'Тело сообщения',
+    'preview_certificate' => 'Предварительный просмотр сертификата',
 
-    'admin_quizzes' => 'Quizzes',
-    'admin_quizzes_list' => 'Quizzes List',
-    'admin_quizzes_create' => 'Quizzes Create',
-    'admin_quizzes_edit' => 'Quizzes Edit',
-    'admin_quizzes_delete' => 'Quizzes Delete',
+    'admin_quizzes' => 'Викторины',
+    'admin_quizzes_list' => 'Список викторин',
+    'admin_quizzes_create' => 'Создать тесты',
+    'admin_quizzes_edit' => 'Редактировать тесты',
+    'admin_quizzes_delete' => 'Удалить тесты',
 ];

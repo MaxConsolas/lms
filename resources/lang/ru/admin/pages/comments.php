@@ -2,48 +2,48 @@
 
 return [
 
-    /*
-    |--------------------------------------------------------------------------
-    | Admin Blog Translation
-    |--------------------------------------------------------------------------
-    */
+/*
+|----------------------------------------------------------------- -------------------------
+| Перевод блога администратора
+|----------------------------------------------------------------- -------------------------
+*/
 
-    'classes_comments' => 'Course Comments',
-    'blog_comments' => 'Blog Comments',
-    'comments' => 'Comments',
-    'comment' => 'Comment',
-    'post' => 'Post',
-    'post_or_webinar' => 'Post or webinar',
-    'enable_comments' => 'Enable Comments',
-    'publish_item' => 'Publish item',
-    'content' => 'Content',
-    'content_placeholder' => 'Main Content',
-    'description_placeholder' => 'choose a short description',
-    'reply' => 'Reply',
-    'replied' => 'Replied',
-    'comment_type' => 'comment type',
-    'main_comment' => 'Main comment',
-    'reply_comment' => 'Reply comment',
-    'reply_comments' => 'Reply comments',
-    'reply_list' => 'Reply list',
-    'edit_comment' => 'Edit comment',
+    'classes_comments' => 'Комментарии к курсу',
+    'blog_comments' => 'Комментарии в блоге',
+    'comments' => 'Комментарии',
+    'comment' => 'Комментарий',
+    'post' => 'Опубликовать',
+    'post_or_webinar' => 'Публикация или вебинар',
+    'enable_comments' => 'Включить комментарии',
+    'publish_item' => 'Опубликовать элемент',
+    'content' => 'Содержимое',
+    'content_placeholder' => 'Основной контент',
+    'description_placeholder' => 'выберите краткое описание',
+    'reply' => 'Ответить',
+    'replied' => 'Ответил',
+    'comment_type' => 'тип комментария',
+    'main_comment' => 'Главный комментарий',
+    'reply_comment' => 'Ответить на комментарий',
+    'reply_comments' => 'Ответить на комментарии',
+    'reply_list' => 'Список ответов',
+    'edit_comment' => 'Редактировать комментарий',
 
-    'reports' => 'reports',
-    'classes_comments_reports' => 'Course Comments',
-    'classes_reports' => 'Course reports',
-    'blog_comments_reports' => 'Blog Comments reports',
-    'comments_reports' => 'Comment reports',
-    'reported_comment' => 'Reported comment',
-    'report_detail' => 'Report details',
-    'report_message' => 'Report message',
-    'comments_lists_lead' => 'List of blog comments. You can edit or delete any row.',
-    'comments_reports_lists_lead' => 'List of comments reports. You can edit or delete any row.',
-    'author' => 'Author',
+    'reports' => 'отчеты',
+    'classes_comments_reports' => 'Комментарии к курсу',
+    'classes_reports' => 'Отчеты по курсам',
+    'blog_comments_reports' => 'Отчеты по комментариям в блоге',
+    'comments_reports' => 'Отчеты о комментариях',
+    'reported_comment' => 'Сообщенный комментарий',
+    'report_detail' => 'Детали отчета',
+    'report_message' => 'Сообщение отчета',
+    'comments_lists_lead' => 'Список комментариев блога. Вы можете редактировать или удалять любую строку.',
+    'comments_reports_lists_lead' => 'Список отчетов по комментариям. Вы можете редактировать или удалять любую строку.',
+    'author' => 'Автор',
 
-    'testimonials' => 'Testimonials',
-    'new_testimonial' => 'New testimonial',
-    'edit_testimonial' => 'Edit testimonial',
-    'testimonials_lists_lead' => 'List of testimonials comments. You can edit or delete any row.',
-    'testimonial_user_avatar_placeholder' => 'empty means use users default avatar',
-    'testimonial_rate_placeholder' => 'number between 0 to 5',
+    'testimonials' => 'Отзывы',
+    'new_testimonial' => 'Новый отзыв',
+    'edit_testimonial' => 'Редактировать отзыв',
+    'testimonials_lists_lead' => 'Список комментариев к отзывам. Вы можете редактировать или удалять любую строку.',
+    'testimonial_user_avatar_placeholder' => 'пусто означает использование аватара пользователя по умолчанию',
+    'testimonial_rate_placeholder' => 'число от 0 до 5',
 ];
