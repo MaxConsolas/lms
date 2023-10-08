@@ -2,86 +2,87 @@
 
 return [
 
-    /*
+  /*
     |--------------------------------------------------------------------------
     | Home 
     |--------------------------------------------------------------------------
     */
 
-    'home_title' => 'Home',
 
-    'slider_heading' => 'Enjoy online learning',
-    'slider_hint' => "Online education is one of the best choices to grow \n learn from the best teachers around the world",
+  'home_title' => 'Главная',
 
-    'slider_search_placeholder' => 'Search courses, instructors and organizations...',
-    'find' => 'Search',
+  'slider_heading' => 'Пользуйтесь обучением онлайн',
+  'slider_hint' => 'Образование в Интернете - один из лучших выборов для роста \n учись у лучших преподавателей со всего мира',
 
-    'view_all' => 'View All',
-    // stats
-    'teachers' => 'Instructors',
-    'skillful_teachers' => 'Skillful Instructors',
-    'skillful_teachers_hint' => 'Start learning from experienced instructors.',
+  'slider_search_placeholder' => 'Поиск курсов, преподавателей и организаций...',
+  'find' => 'Найти',
 
-    'live_classes' => 'Live Classes',
-    'live_classes_hint' => 'Improve your skills using live knowledge flow.',
+  'view_all' => 'Смотреть все',
+  // статистика
+  'teachers' => 'Преподаватели',
+  'skillful_teachers' => 'Опытные преподаватели',
+  'skillful_teachers_hint' => 'Начните учиться у опытных преподавателей.',
 
-    'happy_students' => 'Happy Students',
-    'happy_students_hint' => 'Enrolled in our courses and improved their skills.',
+  'live_classes' => 'Онлайн-классы',
+  'live_classes_hint' => 'Улучшайте свои навыки с использованием потока знаний в реальном времени.',
 
-    'offline_courses' => 'Video Courses',
-    'offline_courses_hint' => 'Learn without any geographical & time limitations.',
+  'happy_students' => 'Довольные студенты',
+  'happy_students_hint' => 'Записаны на наши курсы и улучшили свои навыки.',
 
-    'hours' => 'Hours',
+  'offline_courses' => 'Видеокурсы',
+  'offline_courses_hint' => 'Учиться без каких-либо географических и временных ограничений.',
 
-    'featured_classes' => 'Featured Courses',
-    'featured_webinars' => 'Featured Courses',
-    'featured_classes_hint' => '#Browse featured courses and become skillful',
+  'hours' => 'Часы',
 
-    'latest_classes' => 'Newest Courses',
-    'latest_webinars' => 'Newest Courses',
-    'latest_webinars_hint' => '#Recently published courses',
+  'featured_classes' => 'Рекомендуемые курсы',
+  'featured_webinars' => 'Рекомендуемые курсы',
+  'featured_classes_hint' => '#Просмотрите рекомендуемые курсы и станьте опытным',
 
-    'featured' => 'Featured',
-    'downloadable' => 'Downloadable',
-    'download' => 'Download',
-    'downloads' => 'Downloads',
+  'latest_classes' => 'Новейшие курсы',
+  'latest_webinars' => 'Новейшие курсы',
+  'latest_webinars_hint' => '#Недавно опубликованные курсы',
 
-    'trending_categories' => 'Trending Categories',
-    'trending_categories_hint' => '#Browse trending & popular learning topics',
+  'featured' => 'Рекомендуемые',
+  'downloadable' => 'Можно загрузить',
+  'download' => 'Скачать',
+  'downloads' => 'Загрузки',
 
-    'best_sellers' => 'Bestselling Courses',
-    'best_sellers_hint' => '#Learn from bestselling courses',
+  'trending_categories' => 'Актуальные темы',
+  'trending_categories_hint' => '#Просмотрите актуальные и популярные темы обучения',
 
-    'best_rates' => 'Best Rated Courses',
-    'best_rates_hint' => '#Enjoy high quality and best rated content',
+  'best_sellers' => 'Бестселлеры',
+  'best_sellers_hint' => '#Учись у самых продаваемых курсов',
 
-    'discount_classes' => 'Discounted Courses',
-    'discount_classes_hint' => '#Get courses at the latest price',
+  'best_rates' => 'Курсы с высоким рейтингом',
+  'best_rates_hint' => '#Пользуйтесь контентом высокого качества и лучшего рейтинга',
 
-    'free_classes' => 'Free Courses',
-    'free_classes_hint' => '#Never miss free learning opportunities',
+  'discount_classes' => 'Курсы по скидке',
+  'discount_classes_hint' => '#Получайте курсы по самой низкой цене',
 
-    'testimonials' => 'Testimonials',
-    'testimonials_hint' => '#What our customers say about us',
+  'free_classes' => 'Бесплатные курсы',
+  'free_classes_hint' => '#Не упустите бесплатные возможности для обучения',
 
-    'subscribe_now' => 'Subscribe Now!',
-    'subscribe_now_hint' => '#Choose a subscription plan and save money!',
+  'testimonials' => 'Отзывы',
+  'testimonials_hint' => '#Что говорят о нас наши клиенты',
 
-    'instructors' => 'Instructors',
-    'all_instructors' => 'All Instructors',
-    'instructors_hint' => '#Learn from the experienced & skillful instructors',
-    'reserve_a_live_class' => 'Reserve a live meeting',
+  'subscribe_now' => 'Подпишитесь сейчас!',
+  'subscribe_now_hint' => '#Выберите план подписки и экономьте деньги!',
 
-    'organization' => 'Organization',
-    'organizations' => 'Organizations',
-    'all_organizations' => 'All Organizations',
-    'organizations_hint' => '#Greatest education organizations are here to help you',
+  'instructors' => 'Преподаватели',
+  'all_instructors' => 'Все преподаватели',
+  'instructors_hint' => '#Учись у опытных и квалифицированных преподавателей',
+  'reserve_a_live_class' => 'Забронировать онлайн-класс',
 
-    'blog' => 'Blog',
-    'all_blog' => 'Blog Posts',
-    'blog_hint' => '#Explore latest news and articles',
+  'organization' => 'Организация',
+  'organizations' => 'Организации',
+  'all_organizations' => 'Все организации',
+  'organizations_hint' => '#Лучшие образовательные организации здесь, чтобы помочь вам',
 
-    'platform_address' => 'Address',
-    'order_summary' => 'Order Summary',
-  	'blog_search_placeholder' => 'Search for blog posts...',
+  'blog' => 'Блог',
+  'all_blog' => 'Статьи в блоге',
+  'blog_hint' => '#Исследуйте последние новости и статьи',
+
+  'platform_address' => 'Адрес платформы',
+  'order_summary' => 'Сводка заказа',
+  'blog_search_placeholder' => 'Поиск статей в блоге...',
 ];
