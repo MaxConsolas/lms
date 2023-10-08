@@ -8,15 +8,15 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'all_notifications' => 'All notifications',
-    'sender' => 'Sender',
-    'notifications_page_lists_lead' => 'List of notifications. You can edit or delete...',
-    'send_notification' => 'Send notification',
-    'edit_notification' => 'Edit notification',
-    'empty_notifications' => 'Empty notifications',
-    'email_ignore_msg' => 'If you didnt submit this request, please ignore it.',
-    'send_noticeboard' => 'Send a new notice',
-    'edit_noticeboard' => 'Edit a notice',
-    'post_notice' => 'Send notice',
-	'receiver' => 'Receiver',
+    'all_notifications' => 'Все уведомления',
+    'sender' => 'Отправитель',
+    'notifications_page_lists_lead' => 'Список уведомлений. Вы можете редактировать или удалять...',
+    'send_notification' => 'Отправить уведомление',
+    'edit_notification' => 'Редактировать уведомление',
+    'empty_notifications' => 'Уведомления отсутствуют',
+    'email_ignore_msg' => 'Если вы не отправляли этот запрос, пожалуйста, проигнорируйте его.',
+    'send_noticeboard' => 'Отправить новое объявление',
+    'edit_noticeboard' => 'Редактировать объявление',
+    'post_notice' => 'Отправить объявление',
+    'receiver' => 'Получатель',
 ];

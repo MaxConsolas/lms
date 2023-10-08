@@ -8,9 +8,7 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'categories' => 'Categories',
-    'edit_page_title' => 'Edit',
-
-
+    'categories' => 'Категории',
+    'edit_page_title' => 'Редактировать',
 
 ];

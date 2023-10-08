@@ -8,17 +8,16 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'maximum_64_characters' => 'Maximum 64 characters',
-    'maximum_255_characters' => 'Maximum 255 characters',
-    'maximum_128_characters' => 'Maximum 128 characters',
-    '50_160_characters_preferred' => '155 - 160 characters preferred',
-    'maximum_50_characters' => 'Maximum 50 characters',
-    'course_thumbnail_size' => '360x250px preferred',
-    'course_cover_size' => '1920x530px preferred',
-    'max' => 'Max',
-    'capacity_placeholder' => 'How many students will you host?',
-    'subscribe_hint' => 'Students will be able to subscribe to your content in addition of direct purchasing.',
-    'webinar_description_placeholder' => 'Minimum 300 words. HTML and images supported.',
-    'empty_means_unlimited' => 'Leave it blank for unlimited.',
-
+    'maximum_64_characters' => 'Максимум 64 символа',
+    'maximum_255_characters' => 'Максимум 255 символов',
+    'maximum_128_characters' => 'Максимум 128 символов',
+    '50_160_characters_preferred' => 'Предпочтительно от 155 до 160 символов',
+    'maximum_50_characters' => 'Максимум 50 символов',
+    'course_thumbnail_size' => 'Предпочтительный размер 360x250 пикселей',
+    'course_cover_size' => 'Предпочтительный размер 1920x530 пикселей',
+    'max' => 'Максимум',
+    'capacity_placeholder' => 'Сколько студентов вы собираетесь принять?',
+    'subscribe_hint' => 'Студенты смогут подписываться на ваш контент, помимо прямой покупки.',
+    'webinar_description_placeholder' => 'Минимум 300 слов. Поддерживается HTML и изображения.',
+    'empty_means_unlimited' => 'Оставьте пустым для неограниченного количества.',
 ];

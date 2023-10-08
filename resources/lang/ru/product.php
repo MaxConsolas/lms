@@ -2,40 +2,40 @@
 
 return [
 
-    /*
+  /*
     |--------------------------------------------------------------------------
     | Course page
     |--------------------------------------------------------------------------
     */
 
-    'course' => 'Course',
-    'courses' => 'Courses',
-    'text_course' => 'Text Course',
-  	'video_course' => 'Video Course',
-    'information' => 'Information',
-    'content' => 'Content',
-    'review' => 'Review',
-    'reviews' => 'Reviews',
+  'course' => 'Курс',
+  'courses' => 'Курсы',
+  'text_course' => 'Текстовый курс',
+  'video_course' => 'Видео курс',
+  'information' => 'Информация',
+  'content' => 'Содержание',
+  'review' => 'Отзыв',
+  'reviews' => 'Отзывы',
 
-    'Webinar_description' => 'About this course',
+  'Webinar_description' => 'О курсе',
 
-    'post_comment' => 'Post comment',
-    'post_review' => 'Post review',
+  'post_comment' => 'Оставить комментарий',
+  'post_review' => 'Оставить отзыв',
 
-    'comment_success_store' => 'Comment sent successfully!',
-    'comment_success_store_msg' => 'Your comment will be published after approved by admin.',
+  'comment_success_store' => 'Комментарий успешно отправлен!',
+  'comment_success_store_msg' => 'Ваш комментарий будет опубликован после утверждения администратором.',
 
-    'guarantee_text' => '5 Days money back guarantee',
+  'guarantee_text' => 'Гарантия возврата денег в течение 5 дней',
 
-    'product_designer' => 'Product Designer',
+  'product_designer' => 'Дизайнер продукта',
 
-    'content_quality' => 'Content quality',
-    'instructor_skills' => 'Instructor skills',
-    'purchase_worth' => 'Purchase worth',
-    'support_quality' => 'Support quality',
+  'content_quality' => 'Качество контента',
+  'instructor_skills' => 'Навыки инструктора',
+  'purchase_worth' => 'Стоимость покупки',
+  'support_quality' => 'Качество поддержки',
 
-    'report_the_course' => 'Report course',
-    'reason' => 'Reason',
-    'select_reason' => 'Select a reason',
-    'report_modal_hint' => 'Please describe about the report short and clearly.',
+  'report_the_course' => 'Пожаловаться на курс',
+  'reason' => 'Причина',
+  'select_reason' => 'Выберите причину',
+  'report_modal_hint' => 'Пожалуйста, кратко и ясно опишите причину жалобы.',
 ];

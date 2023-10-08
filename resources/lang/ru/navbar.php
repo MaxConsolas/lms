@@ -8,17 +8,16 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'search_anything' => 'Search...',
-    'home' => 'Home',
-    'about_us' => 'About us',
-    'contact' => 'Contact',
-    'blog' => 'Blog',
-    'terms' => 'Terms',
-    'items' => 'Items',
-    'menu' => 'Menu',
-    'title' => 'Title',
-    'start_a_live_class' => 'Start a new course',
-
+    'search_anything' => 'Поиск...',
+    'home' => 'Главная',
+    'about_us' => 'О нас',
+    'contact' => 'Контакты',
+    'blog' => 'Блог',
+    'terms' => 'Условия',
+    'items' => 'Элементы',
+    'menu' => 'Меню',
+    'title' => 'Заголовок',
+    'start_a_live_class' => 'Запустить новый курс',
 
 
 ];
