@@ -4,6 +4,12 @@
 
 @endpush
 
+@php
+    if (!isset($name)) {
+        $name = 'page_background';
+    }
+@endphp
+
 @section('content')
     <section class="section">
         <div class="section-header">
