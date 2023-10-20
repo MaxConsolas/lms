@@ -263,6 +263,7 @@ return [
   'filter_classes' => 'Фильтр курсов',
   'only_not_free_classes' => 'Только платные курсы',
   'only_free_classes' => 'Только бесплатные курсы',
+  'start_learning' => 'Начать учебу',
 
   'new_noticeboard' => 'Новое объявление',
   'noticeboard_success_send' => 'Новое объявление успешно отправлено',
