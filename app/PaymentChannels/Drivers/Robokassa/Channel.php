@@ -52,7 +52,7 @@ class Channel implements IChannel
         ];
 
         // Send purchase request
-        /*try {*/
+        try {
 
         $response = $gateway->purchase(
             [
@@ -70,9 +70,9 @@ class Channel implements IChannel
             ]
         )->send();
 
-        /*} catch (\Exception $exception) {
+        } catch (\Exception $exception) {
             dd($exception);
-        }*/
+        }
 
         if ($response->isRedirect()) {
             return $response->redirect();
