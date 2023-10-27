@@ -185,6 +185,7 @@ class PaymentController extends Controller
 
             return redirect('/payments/status');
         } else {
+            info('Error: no order', ['request' => request()->all()]);
             $toastData = [
                 'title' => trans('cart.fail_purchase'),
                 'msg' => trans('cart.gateway_error'),

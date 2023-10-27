@@ -97,6 +97,10 @@ class Channel implements IChannel
             ->where('user_id', $user->id)
             ->first();
 
+        if (!$order) {
+            dd($request->all());
+        }
+
         // Setup payment gateway
         $gateway = Omnipay::create('Robokassa');
         $gateway->setSecretKey($this->secret_key_1);
