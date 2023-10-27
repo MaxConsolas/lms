@@ -121,6 +121,7 @@ class PaymentController extends Controller
             return $this->paymentOrderAfterVerify($order);
 
         } catch (\Exception $exception) {
+            debug($exception);
             $toastData = [
                 'title' => trans('cart.fail_purchase'),
                 'msg' => trans('cart.gateway_error'),
