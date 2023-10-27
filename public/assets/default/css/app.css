@@ -17932,7 +17932,9 @@ p {
   width: -moz-max-content;
   width: max-content;
   background-color: #fff;
-  display: block;
+  display: grid;
+  grid-column-gap: 12px;
+  grid-template-columns: 1fr 1fr;
   padding: 30px 25px;
   border-radius: 15px;
   transition: all 0.3s;
