@@ -56,12 +56,13 @@ class Channel implements IChannel
 
             $response = $gateway->purchase(
                 [
-                    'language' => 'ENG',
+                    'language' => 'ru',
                     'transactionId' => $order->id,
                     'paymentMethod' => 'hanzaee',
+                    'purse' => 'ano.educall',
                     'amount' => $order->total_amount,
                     'currency' => $this->currency,
-                    'description' => 'Paying by Robokassa',
+                    'description' => 'Оплата курса',
                     'testMode' => $this->test_mode,
                     'returnUrl' => $this->makeCallbackUrl($order, 'success'),
                     'cancelUrl' => $this->makeCallbackUrl($order, 'cancel'),
