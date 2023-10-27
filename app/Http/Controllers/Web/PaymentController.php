@@ -75,6 +75,8 @@ class PaymentController extends Controller
             ->first();
 
         if (!$paymentChannel) {
+            info('error: no payment channel');
+
             $toastData = [
                 'title' => trans('cart.fail_purchase'),
                 'msg' => trans('public.channel_payment_disabled'),
@@ -121,7 +123,7 @@ class PaymentController extends Controller
             return $this->paymentOrderAfterVerify($order);
 
         } catch (\Exception $exception) {
-            debug($exception);
+            info('error', [ 'exception' => $exception ]);
             $toastData = [
                 'title' => trans('cart.fail_purchase'),
                 'msg' => trans('cart.gateway_error'),
@@ -150,6 +152,8 @@ class PaymentController extends Controller
             return $this->paymentOrderAfterVerify($order);
 
         } catch (\Exception $exception) {
+            info('error', [ 'exception' => $exception ]);
+
             $toastData = [
                 'title' => trans('cart.fail_purchase'),
                 'msg' => trans('cart.gateway_error'),
