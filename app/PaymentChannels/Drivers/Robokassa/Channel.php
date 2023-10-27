@@ -89,7 +89,7 @@ class Channel implements IChannel
     public function verify(Request $request)
     {
         $data = $request->all();
-        $order_id = $data['InvId'];
+        $order_id = $data['Shp_TransactionId'];
 
         $user = auth()->user();
 
