@@ -71,6 +71,7 @@ class Channel implements IChannel
             )->send();
 
             if ($response->isRedirect()) {
+                dd($response);
                 return $response->redirect();
             }
 
