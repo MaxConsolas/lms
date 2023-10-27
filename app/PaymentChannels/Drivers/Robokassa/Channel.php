@@ -54,28 +54,28 @@ class Channel implements IChannel
         // Send purchase request
         try {
 
-        $response = $gateway->purchase(
-            [
-                'language' => 'ENG',
-                'transactionId' => $order->id,
-                'paymentMethod' => 'hanzaee',
-                'amount' => $order->total_amount,
-                'currency' => $this->currency,
-                'description' => 'Paying by Robokassa',
-                'testMode' => $this->test_mode,
-                'returnUrl' => $this->makeCallbackUrl($order, 'success'),
-                'cancelUrl' => $this->makeCallbackUrl($order, 'cancel'),
-                'notifyUrl' => $this->makeCallbackUrl($order, 'notify'),
-                'card' => $card,
-            ]
-        )->send();
+            $response = $gateway->purchase(
+                [
+                    'language' => 'ENG',
+                    'transactionId' => $order->id,
+                    'paymentMethod' => 'hanzaee',
+                    'amount' => $order->total_amount,
+                    'currency' => $this->currency,
+                    'description' => 'Paying by Robokassa',
+                    'testMode' => $this->test_mode,
+                    'returnUrl' => $this->makeCallbackUrl($order, 'success'),
+                    'cancelUrl' => $this->makeCallbackUrl($order, 'cancel'),
+                    'notifyUrl' => $this->makeCallbackUrl($order, 'notify'),
+                    'card' => $card,
+                ]
+            )->send();
+
+            if ($response->isRedirect()) {
+                return $response->redirect();
+            }
 
         } catch (\Exception $exception) {
             dd($exception);
-        }
-
-        if ($response->isRedirect()) {
-            return $response->redirect();
         }
     }
 
