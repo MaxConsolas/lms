@@ -102,7 +102,7 @@ class Channel implements IChannel
         }
 
         // Setup payment gateway
-        $gateway = Omnipay::create('Robokassa');
+        $gateway = Omnipay::create('RoboKassa');
         $gateway->setSecretKey($this->secret_key_1);
         $gateway->setSecretKey2($this->secret_key_2);
 
