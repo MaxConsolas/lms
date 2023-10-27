@@ -107,7 +107,7 @@ class Channel implements IChannel
         $gateway->setSecretKey2($this->secret_key_2);
 
         // Accept the notification
-        $response = $gateway->acceptNotification()->send();
+        // $response = $gateway->acceptNotification()->send();
 
         if (/* $response->isSuccessful() and  */!empty($order)) {
             // Mark the order as paid
