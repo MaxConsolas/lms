@@ -109,7 +109,7 @@ class Channel implements IChannel
         // Accept the notification
         $response = $gateway->acceptNotification()->send();
 
-        if ($response->isSuccessful() and !empty($order)) {
+        if (/* $response->isSuccessful() and  */!empty($order)) {
             // Mark the order as paid
 
             $order->update([
